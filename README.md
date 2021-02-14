@@ -110,6 +110,12 @@ Many organizations regularly come forward and share their best practices, tools,
 <details>
   <summary>Booking.com</summary>
 
+#### Blog Posts
+* [How Reliability and Product Teams Collaborate at Booking.com](https://medium.com/booking-com-infrastructure/how-reliability-and-product-teams-collaborate-at-booking-com-f6c317cc0aeb)
+* [Incidents, fixes, and the day after](https://medium.com/booking-com-infrastructure/incidents-fixes-and-the-day-after-c5d9aeae28c3)
+* [Troubleshooting: A journey into the unknown](https://medium.com/booking-com-infrastructure/troubleshooting-a-journey-into-the-unknown-e31b524fa86)
+
+#### Videos
 * [SLOs for Data-Intensive Services](https://www.usenix.org/conference/srecon19emea/presentation/fouquet)
 * [Benefits of Taking the Less Traveled Road with Containers Infrastructure](https://www.usenix.org/conference/srecon19americas/presentation/iacoboaia)
 </details>
@@ -183,6 +189,7 @@ Many organizations regularly come forward and share their best practices, tools,
 <details>
   <summary>Fastly</summary>
 
+#### Videos
 * [SRE & Product Management: How to Level up Your Team (and Career!) by Thinking like a Product Manager](https://www.usenix.org/conference/srecon19americas/presentation/wohlner)
 * [Resilience Engineering Mythbusting](https://www.usenix.org/conference/srecon19americas/presentation/gallego)
 
@@ -635,7 +642,6 @@ Many organizations regularly come forward and share their best practices, tools,
 <details>
   <summary>Trivago</summary>
 
-## Trivago
 #### Blog Posts
 * [How To Get Fooled By Metrics](https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/)
 
