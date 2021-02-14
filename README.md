@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) by [Abhijeet Vaikar](https://github.com/abhivaikar), __How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations. 
+Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar), __How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations. 
 
 Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
