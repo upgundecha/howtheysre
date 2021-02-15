@@ -720,10 +720,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ---
 ## Resources
 ### Books
-* [Building Secure & Reliable Systems from Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
-* [Site Reliability Engineering from Google](https://sre.google/sre-book/table-of-contents/)
-* [The Site Reliability Workbook from Google](https://sre.google/workbook/table-of-contents/)
-* [Training Site Reliability Engineers from Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
+* [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
+* [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
+* [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
+* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 * [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
@@ -732,7 +732,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Seeking SRE](https://www.oreilly.com/library/view/seeking-sre/9781491978856/)
 * [Security Chaos Engineering](https://www.oreilly.com/library/view/security-chaos-engineering/9781492080350/)
 * [Chaos Engineering Observability](https://www.oreilly.com/library/view/chaos-engineering-observability/9781492051046/)
-* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/)
 * [Database Reliability Engineering](https://www.oreilly.com/library/view/database-reliability-engineering/9781491925935/)
 * [What Is SRE?](https://www.oreilly.com/library/view/what-is-sre/9781492054429/)
 * [Database Reliability Engineering: What, Why, and How?](https://www.oreilly.com/library/view/database-reliability-engineering/9781492030942/)
