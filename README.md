@@ -2,7 +2,7 @@
 
 ![Alt](banner.png "banner")
 
-> A curated collection of publicly available resources on how technology or tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhij
 
 Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
-_Note to readers: This list contains the reading material, videos, tools, and techniques created a few years back, and some of these may be obsolete. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
+_Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
 
 ### Topics
 
