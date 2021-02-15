@@ -10,6 +10,8 @@ Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhij
 
 Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
+_Note to readers: This list contains the reading material, tools, and techniques written a few years back that may be obsolete. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
+
 ### Topics
 
 * Site Reliability Engineering
@@ -18,8 +20,7 @@ Many organizations regularly come forward and share their best practices, tools,
 * DevOps
 * Monitoring & Observability
 * Alerting
-* Incident Management & Incident Response
-* Post-Mortem
+* Incident Response & Post-Mortem
 * On-Call 
 * Testing in Production
 * Chaos Engineering
@@ -73,6 +74,7 @@ Many organizations regularly come forward and share their best practices, tools,
 * [Best practices for change management in the age of DevOps](https://www.atlassian.com/engineering/best-practices-for-change-management-in-the-age-of-devops)
 * [Automated testing: 5 lessons from Atlassian’s Kubernetes team on testing infrastructure as code](https://www.atlassian.com/engineering/automated-testing-5-lessons-from-atlassians-kubernetes-team-on-testing-infrastructure-as-code)
 * [How to export Kubernetes events for observability and alerting](https://www.atlassian.com/engineering/how-to-export-kubernetes-events-for-observability-and-alerting)
+* [Incident Postmortem Template](https://www.atlassian.com/incident-management/postmortem/templates)
 
 </details>
 
@@ -275,6 +277,7 @@ Many organizations regularly come forward and share their best practices, tools,
 * [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
 * [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
+* [Training Site Reliability Engineers](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
 
 #### Videos
 * [What's the Difference Between DevOps and SRE? with Seth Vargo and Liz Fong-Jones of Google](https://youtu.be/uTEL8Ff1Zvk)
@@ -743,6 +746,7 @@ Many organizations regularly come forward and share their best practices, tools,
 * [SRE Weekly Newsletter](https://sreweekly.com/)
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
+* [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 
 ## Credits
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
