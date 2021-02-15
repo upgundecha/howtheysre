@@ -720,6 +720,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ---
 ## Resources
 ### Books
+* [Building Secure & Reliable Systems from Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
+* [Site Reliability Engineering from Google](https://sre.google/sre-book/table-of-contents/)
+* [The Site Reliability Workbook from Google](https://sre.google/workbook/table-of-contents/)
+* [Training Site Reliability Engineers from Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 * [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
