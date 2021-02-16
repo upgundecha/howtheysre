@@ -347,6 +347,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Designing Resilient Systems Beyond Retries (Part 3): Architecture Patterns and Chaos Engineering](https://engineering.grab.com/beyond-retries-part-3)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
 * [How We Designed the Quotas Microservice to Prevent Resource Abuse](https://engineering.grab.com/quotas-service)
+* [How We Scaled Our Cache and Got a Good Night's Sleep](https://engineering.grab.com/how-we-scaled-our-cache-and-got-a-good-nights-sleep)
 
 </details>
 
@@ -355,6 +356,14 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 #### Blog Posts
 * [Security Operations in an AWS Environment](https://www.grammarly.com/blog/engineering/security-infrastructure-aws/)
+
+</details>
+
+<details>
+  <summary>Heroku</summary>
+
+#### Blog Posts
+* [Incident Response at Heroku](https://blog.heroku.com/incident-response-at-heroku-2020)
 
 </details>
 
@@ -372,10 +381,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-  <summary>Heroku</summary>
+  <summary>Khan Academy</summary>
 
 #### Blog Posts
-* [Incident Response at Heroku](https://blog.heroku.com/incident-response-at-heroku-2020)
+* [How Khan Academy Successfully Handled 2.5x Traffic in a Week](https://blog.khanacademy.org/how-khan-academy-successfully-handled-2-5x-traffic-in-a-week/)
+* [Evolving our content infrastructure](https://blog.khanacademy.org/evolving-our-content-infrastructure/)
 
 </details>
 
