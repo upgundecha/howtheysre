@@ -782,6 +782,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 
 ## Credits
+* The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
 
 ## Contributors

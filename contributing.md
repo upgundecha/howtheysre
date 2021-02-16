@@ -7,7 +7,7 @@ project you agree to abide by its terms.
 ---
 Please feel free to fork the repo and add blog posts, videos, incidents reports or any other useful resource to the repo.
 
-You may find the Markdown Link Generator extension for Google Chrome Browser easy to generate links in Markdown inline text link format. This tool will help to generate links for resources with minimal steps and context switching.
+You may find the [Markdown Link Generator](https://chrome.google.com/webstore/detail/markdown-link-generator/glnecdafikgonniihbdjneaikhcgcbhb?hl=en) extension for Google Chrome Browser easy to generate links in Markdown inline text link format. This tool will help to generate links for resources with minimal steps and context switching.
 
 Ensure your pull request adheres to the following guidelines:
 
