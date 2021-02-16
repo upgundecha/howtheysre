@@ -666,6 +666,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 </details>
 
+
+<details>
+  <summary>VGW</summary>
+
+#### Blog Posts
+* [The SRE Incident Response game](https://medium.com/@bruce_25864/the-sre-incident-response-game-db242fff391c)
+
+</details>
+
 <details>
   <summary>Wikimedia Foundation</summary>
 
