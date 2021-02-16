@@ -485,6 +485,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 #### Blog Posts
 * [Building Netflix’s Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+* [Lessons from Building Observability Tools at Netflix](https://netflixtechblog.com/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
 * [Telltale: Netflix Application Monitoring Simplified](https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba)
 * [Keeping Customers Streaming — The Centralized Site Reliability Practice at Netflix](https://netflixtechblog.com/keeping-customers-streaming-the-centralized-site-reliability-practice-at-netflix-205cc37aa9fb)
@@ -494,7 +495,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Starting the Avalanche](https://netflixtechblog.com/starting-the-avalanche-640e69b14a06)
 * [Netflix Chaos Monkey Upgraded](https://netflixtechblog.com/netflix-chaos-monkey-upgraded-1d679429be5d)
 * [Chaos Engineering Upgraded](https://netflixtechblog.com/chaos-engineering-upgraded-878d341f15fa)
+* [Automated Failure Testing](https://netflixtechblog.com/automated-failure-testing-86c1b8bc841f)
 * [From Chaos to Control — Testing the resiliency of Netflix’s Content Discovery Platform](https://netflixtechblog.com/from-chaos-to-control-testing-the-resiliency-of-netflixs-content-discovery-platform-ce5566aef0a4)
+* [Introducing Atlas: Netflix’s Primary Telemetry Platform](https://netflixtechblog.com/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
+* [FIT: Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
+* [Announcing Security Monkey — AWS Security Configuration Monitoring and Analysis](https://netflixtechblog.com/announcing-security-monkey-aws-security-configuration-monitoring-and-analysis-1f2bfb001708)
+* [Lessons Netflix Learned from the AWS Outage](https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04)
 
 #### Major incidents & analysis reports
 * [Post-mortem of October 22, 2012 AWS degradation](https://netflixtechblog.com/post-mortem-of-october-22-2012-aws-degradation-efcee3ab40d5)
