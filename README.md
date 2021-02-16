@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar), __How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations. 
+__How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations. 
 
 Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
 
@@ -801,6 +801,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 
 ## Credits
+* Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
 * The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
 
