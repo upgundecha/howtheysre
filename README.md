@@ -79,6 +79,14 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>BackMarket</summary>
+
+#### Blog Posts
+* [How Back Market SREs prepared for Black Friday](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408)
+
+</details>
+
+<details>
   <summary>Baidu</summary>
 
 #### Videos
