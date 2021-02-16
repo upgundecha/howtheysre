@@ -673,6 +673,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 #### Blog Posts
 * [The SRE Incident Response game](https://medium.com/@bruce_25864/the-sre-incident-response-game-db242fff391c)
 
+#### Videos
+* [Level Up Your Incident Response With Gameplay](https://youtu.be/c2-52EP8_7c)
 </details>
 
 <details>
