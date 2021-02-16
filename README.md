@@ -159,6 +159,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 #### Blog Posts
 * [Site Reliability Engineering at DBS Bank](https://medium.com/dbs-tech-blog/site-reliability-engineering-at-dbs-bank-32c02228ccf4)
+* [Automating Configuration Management at Scale](https://medium.com/dbs-tech-blog/automating-configuration-management-at-scale-5c7927f83df3)
 
 #### Videos
 * [SREcon Conversations Asia/Pacific with Koon Seng Lim, DBS](https://www.youtube.com/watch?v=URwkaRbOLxI&feature=emb_title)
@@ -331,7 +332,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 <details>
   <summary>Gojek</summary>
 
-## Gojek
 #### Blog Posts
 * [Why We Swear by the RCA](https://blog.gojekengineering.com/why-we-swear-by-the-rca-f535fd5abbcb)
 
@@ -342,8 +342,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 #### Blog Posts
 * [Our Journey to Continuous Delivery at Grab (Part 1)](https://engineering.grab.com/our-journey-to-continuous-delivery-at-grab)
+* [Designing Resilient Systems: Circuit Breakers or Retries? (Part 1)](https://engineering.grab.com/designing-resilient-systems-part-1)
+* [Designing Resilient Systems: Circuit Breakers or Retries? (Part 2)](https://engineering.grab.com/designing-resilient-systems-part-2)
 * [Designing Resilient Systems Beyond Retries (Part 3): Architecture Patterns and Chaos Engineering](https://engineering.grab.com/beyond-retries-part-3)
 * [Orchestrating Chaos using Grab's Experimentation Platform](https://engineering.grab.com/chaos-engineering)
+* [How We Designed the Quotas Microservice to Prevent Resource Abuse](https://engineering.grab.com/quotas-service)
 
 </details>
 
