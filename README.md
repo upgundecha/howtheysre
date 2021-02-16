@@ -266,6 +266,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GoCardless</summary>
+
+#### Blog Posts
+* [Deploying Software at GoCardless: Open-Sourcing our “Getting Started” Tutorial](https://medium.com/gocardless-tech/deploying-software-at-gocardless-open-sourcing-our-getting-started-tutorial-ab857aa91c9e)
+* [How we compress Pub/Sub messages and more, saving a load of money](https://medium.com/gocardless-tech/how-we-compress-pub-sub-messages-and-more-saving-a-load-of-money-694b64c3458a)
+* [Fear-free PostgreSQL migrations for Rails](https://gocardless.com/blog/fear-free-postgresql-migrations-for-rails/)
+* [Observability at GoCardless: a tale of API performance improvement](https://gocardless.com/blog/observability-at-gocardless-a-tale-of-api-performance-improvement/)
+* [Debugging the PostgreSQL query planner](https://gocardless.com/blog/debugging-the-postgres-query-planner/)
+* [Zero-downtime Postgres migrations - the hard parts](https://gocardless.com/blog/zero-downtime-postgres-migrations-the-hard-parts/)
+* [In search of performance - how we shaved 200ms off every POST request](https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/)
+
+#### Major incidents & analysis reports
+* [Incident review: Service outage on 25 October 2020, Vault TLS expiry](https://gocardless.com/blog/incident-review-service-outage-on-25-october-2020/)
+* [Incident review: API and Dashboard outage on 10 October 2017](https://gocardless.com/blog/incident-review-api-and-dashboard-outage-on-10th-october/)
+
+</details>
+
+<details>
   <summary>Google</summary>
 
 #### Blog Posts
