@@ -741,11 +741,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
 * [ChaosConf](https://www.chaosconf.io/)
 
-### Others
+### Other Goodies
 * [Awesome SRE](https://github.com/dastergon/awesome-sre)
 * [Awesome Site Reliability Engineering Tools](https://github.com/SquadcastHub/awesome-sre-tools)
 * [Google SRE Page](https://sre.google/)
 * [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
+* [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
 * [SRE Weekly Newsletter](https://sreweekly.com/)
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
