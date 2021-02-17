@@ -828,11 +828,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
 
-## Contributors
-<a href="https://github.com/upgundecha/howtheysre/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=upgundecha/howtheysre" />
-</a>
-
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
