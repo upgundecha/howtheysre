@@ -416,6 +416,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 #### Blog Posts
 * [Open source update: School of SRE](https://engineering.linkedin.com/blog/2021/open-source-update--school-of-sre)
+* [Fixing Linux filesystem performance regressions](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 * [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
 * [Smart alerts in ThirdEye, LinkedIn’s real-time monitoring platform](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 * [Iris mobile: An open source, mobile interface for incident management](https://engineering.linkedin.com/blog/2019/05/iris-mobile--an-open-source--mobile-interface-for-incident-manag)
