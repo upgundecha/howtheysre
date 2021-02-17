@@ -175,6 +175,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>DeepSource</summary>
+
+#### Blog Posts
+* [Redis diskless replication: What, how, why and the caveats](https://deepsource.io/blog/redis-diskless-replication/)
+* [How to setup Vault with Kubernetes](https://deepsource.io/blog/setup-vault-kubernetes/)
+* [Breaking down zero downtime deployments in Kubernetes](https://deepsource.io/blog/zero-downtime-deployment/)
+
+</details>
+
+<details>
   <summary>Dropbox</summary>
 
 #### Blog Posts
