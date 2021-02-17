@@ -104,6 +104,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Basecamp 2 and Basecamp 3 search outage report](https://m.signalvnoise.com/basecamp-2-and-basecamp-3-search-outage-report/)
 * [Reducing Incident Escalations at Basecamp](https://m.signalvnoise.com/reducing-incident-escalations-at-basecamp/)
 
+#### Books
+* [Shape Up](https://basecamp.com/shapeup/webbook)
+
 </details>
 
 <details>
@@ -238,6 +241,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
 * [Demystifying Site Outages](https://blog.etsy.com/news/2012/demystifying-site-outages/)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+* [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 
 #### Videos
 * [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe](https://www.youtube.com/watch?v=LdOe18KhtT4)
@@ -660,11 +664,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-  <summary>StackOverflow</summary>
+  <summary>Stack Overflow</summary>
 
 #### Blog Posts
 * [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
-* [Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
+* [Guest Post - Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
 
 #### Videos
 * [Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline](https://www.usenix.org/conference/srecon20americas/presentation/limoncelli)
@@ -836,3 +840,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
 related or neighboring rights to this work.
+
+---
+
+If you decide to use this anywhere please give a credit to [@upgundecha](https://www.twitter.com/upgundecha) on twitter, also If you like my work, check out other projects on my Github. 
