@@ -806,6 +806,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [What Is SRE?](https://www.oreilly.com/library/view/what-is-sre/9781492054429/)
 * [Database Reliability Engineering: What, Why, and How?](https://www.oreilly.com/library/view/database-reliability-engineering/9781492030942/)
 * [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+* [_New!_ Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
 
 ### Events
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
