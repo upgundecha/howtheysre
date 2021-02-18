@@ -415,6 +415,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   <summary>LinkedIn</summary>
 
 #### Blog Posts
+* [Insights into a Product SRE team at LinkedIn](https://www.linkedin.com/pulse/insights-product-sre-team-linkedin-zaina-afoulki/?trackingId=mxKJgZ3kp8l2WI9D4UZv7Q%3D%3D)
 * [Open source update: School of SRE](https://engineering.linkedin.com/blog/2021/open-source-update--school-of-sre)
 * [Fixing Linux filesystem performance regressions](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 * [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
@@ -529,6 +530,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Post-mortem of October 22, 2012 AWS degradation](https://netflixtechblog.com/post-mortem-of-october-22-2012-aws-degradation-efcee3ab40d5)
   
 #### Videos
+* [AWS re:Invent 2019: A day in the life of a Netflix engineer (NFX202)](https://www.youtube.com/watch?v=0QS1TWLooo0)
 * [When /bin/sh Attacks: Revisiting "Automate All the Things"](https://www.usenix.org/conference/srecon20americas/presentation/reed)
 * [How Did Things Go Right? Learning More from Incidents](https://www.usenix.org/conference/srecon19americas/presentation/kitchens)
 * [Monitoring and Tracing @Netflix Streaming Data Infrastructure](https://www.youtube.com/watch?v=DlWYNoLmma8)
