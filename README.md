@@ -289,6 +289,22 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GitLab</summary>
+
+#### Blog Posts
+* [This SRE attempted to roll out an HAProxy config change. You won't believe what happened next...](https://about.gitlab.com/blog/2021/01/14/this-sre-attempted-to-roll-out-an-haproxy-change/)
+* [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
+* [Update: Elasticsearch lessons learnt for Advanced Global Search](https://about.gitlab.com/blog/2020/04/28/elasticsearch-update/)
+* [Lessons in iteration from a new team in infrastructure](https://about.gitlab.com/blog/2020/11/09/lessons-in-iteration-from-new-infrastructure-team/)
+* [How we optimized infrastructure spend at GitLab](https://about.gitlab.com/blog/2020/10/27/how-we-optimized-our-infrastructure-spend-at-gitlab/)
+* [How we scaled async workload processing at GitLab.com using Sidekiq](https://about.gitlab.com/blog/2020/06/24/scaling-our-use-of-sidekiq/)
+* [Inside GitLab: How we release software patches](https://about.gitlab.com/blog/2020/05/13/how-we-release-software-patches/)
+* [What tracking down missing TCP Keepalives taught me about Docker, Golang, and GitLab](https://about.gitlab.com/blog/2019/11/15/tracking-down-missing-tcp-keepalives/)
+* [How we used delayed replication for disaster recovery with PostgreSQL](https://about.gitlab.com/blog/2019/02/13/delayed-replication-for-disaster-recovery-with-postgresql/)
+
+</details>
+
+<details>
   <summary>GoCardless</summary>
 
 #### Blog Posts
