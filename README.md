@@ -1,6 +1,6 @@
 # How they SRE
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Check Markdown links](https://github.com/upgundecha/howtheysre/workflows/Check%20Markdown%20links/badge.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml)
 
 ![Alt](banner.png "banner")
 
