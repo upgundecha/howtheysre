@@ -827,8 +827,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 ---
+
 ## Resources
+
 ### Books
+
 * [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
 * [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
@@ -848,10 +851,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [_New!_ Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
 
 ### Events
+
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
 * [ChaosConf](https://www.chaosconf.io/)
 
 ### Other Goodies
+
 * [Awesome SRE](https://github.com/dastergon/awesome-sre)
 * [Awesome Site Reliability Engineering Tools](https://github.com/SquadcastHub/awesome-sre-tools)
 * [Google SRE Page](https://sre.google/)
@@ -863,14 +868,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 
 ## Credits
+
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
 * The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
 
+## Other How They... repos
+
+* [HowTheyTest](https://github.com/abhivaikar/howtheytest)
+* [HowTheyDevOps](https://github.com/bregman-arie/howtheydevops)
+* [HowTheyAWS](https://github.com/upgundecha/howtheyaws)
+
+
 ## Contribute
+
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and
