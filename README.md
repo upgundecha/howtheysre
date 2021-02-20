@@ -619,7 +619,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [The Lego Monolith — A Monolith Microservice Proof of Concept](https://medium.com/slalom-build/the-lego-monolith-a-monolith-microservice-proof-of-concept-a402ca1654e4)
 * [Managing Secrets Using Hashicorp Vault](https://medium.com/slalom-build/managing-secrets-using-hashicorp-vault-ed6b9e0375ac)
 * [Packaging Spring Boot Applications for Deployment on Kubernetes](https://medium.com/slalom-build/packaging-spring-boot-applications-for-deployment-on-kubernetes-5fb64bc65406)
-* Immutable Infrastructure and Continuous Delivery in the Cloud](https://medium.com/slalom-build/immutable-infrastructure-and-continuous-delivery-in-the-cloud-56ee4b31b8d5)
+* [Immutable Infrastructure and Continuous Delivery in the Cloud](https://medium.com/slalom-build/immutable-infrastructure-and-continuous-delivery-in-the-cloud-56ee4b31b8d5)
 
 </details>
 
