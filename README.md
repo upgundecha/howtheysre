@@ -605,12 +605,32 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Slalom Build</summary>
+
+#### Blog Posts
+
+* [Beginners Guide to DevOps: How to Make It into the Industry](https://medium.com/slalom-build/beginners-guid-to-devops-how-to-make-it-into-the-industry-c1652d59807)
+* [GitHub Actions: Beyond CI/CD](https://medium.com/slalom-build/github-actions-beyond-ci-cd-cb3ddc6abaa)
+* [Why isn’t all test automation run on the pipeline?](https://medium.com/slalom-build/why-isnt-all-test-automation-run-on-the-pipeline-b2c57afbdf5a)
+* [The Many Shapes of Site Reliability Engineering](https://medium.com/slalom-build/the-many-shapes-of-site-reliability-engineering-468359866517)
+* [How to build a secure by default Kubernetes cluster with a basic CI/CD pipeline on AWS](https://medium.com/slalom-build/how-to-build-a-secure-by-default-kubernetes-cluster-with-a-basic-ci-cd-pipeline-on-aws-ebfe0da1c7c9)
+* [Secret Management Architectures: Finding the balance between security and complexity](https://medium.com/slalom-build/secret-management-architectures-finding-the-balance-between-security-and-complexity-d857ceaa2300)
+* [Detecting Malicious Requests with Keras & Tensorflow](https://medium.com/slalom-build/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28)
+* [The Lego Monolith — A Monolith Microservice Proof of Concept](https://medium.com/slalom-build/the-lego-monolith-a-monolith-microservice-proof-of-concept-a402ca1654e4)
+* [Managing Secrets Using Hashicorp Vault](https://medium.com/slalom-build/managing-secrets-using-hashicorp-vault-ed6b9e0375ac)
+* [Packaging Spring Boot Applications for Deployment on Kubernetes](https://medium.com/slalom-build/packaging-spring-boot-applications-for-deployment-on-kubernetes-5fb64bc65406)
+* Immutable Infrastructure and Continuous Delivery in the Cloud](https://medium.com/slalom-build/immutable-infrastructure-and-continuous-delivery-in-the-cloud-56ee4b31b8d5)
+
+</details>
+
+<details>
   <summary>Scribd</summary>
 
 #### Blog Posts
 * [Learning from incidents: getting Sidekiq ready to serve a billion jobs](https://tech.scribd.com/blog/2020/sidekiq-incident-learnings.html)
 * [A testimonial for using PagerDuty at Scribd](https://tech.scribd.com/blog/2020/pagerduty-at-scribd.html)
 * [Assigning pager duty to developers](https://tech.scribd.com/blog/2019/managing-pagerduty-rotations.html)
+
 </details>
 
 <details>
