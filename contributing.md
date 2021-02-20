@@ -15,7 +15,6 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-
 ## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
