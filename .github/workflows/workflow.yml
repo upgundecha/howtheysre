@@ -10,13 +10,13 @@ jobs:
     steps:
     - uses: actions/checkout@v1
    
-    - name: markdown lit
+    - name: Run markdown lint
       uses: nosborn/github-action-markdown-cli@v1.1.1
       with:
         files: README.md
         config_file: ".markdownlint.json"
    
-    - name: Checklist
+    - name: Setup and run check list
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
