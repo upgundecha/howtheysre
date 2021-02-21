@@ -10,7 +10,7 @@ describe('Header', function() {
 });
 
 describe('Sections', function() {
-  ['Introduction', 'Organizations', 'Resources', 'Credits', 'Contribute', 'License'] .forEach(function (section) {
+  ['Introduction', 'Organizations', 'Resources', 'Credits', 'Other How They... repos', 'Contribute', 'License'] .forEach(function (section) {
     it(`${section}`, function() {
         assert.isOk(srcMd.includes(`## ${section}`), `${section} section is missing`);
     });
