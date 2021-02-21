@@ -1,0 +1,22 @@
+{
+  "name": "howtheysre",
+  "version": "1.0.0",
+  "description": "How They SRE",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgundecha/howtheysre.git"
+  },
+  "author": "upgundecha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgundecha/howtheysre/issues"
+  },
+  "homepage": "https://github.com/upgundecha/howtheysre#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}

@@ -945,6 +945,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Awesome SRE](https://github.com/dastergon/awesome-sre)
 * [Awesome Site Reliability Engineering Tools](https://github.com/SquadcastHub/awesome-sre-tools)
+* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+* [Awesome-Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+* [Awesome Sysadmin](https://project-awesome.org/n1trux/awesome-sysadmin)
 * [Google SRE Page](https://sre.google/)
 * [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
