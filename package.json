@@ -17,6 +17,9 @@
   "homepage": "https://github.com/upgundecha/howtheysre#readme",
   "devDependencies": {
     "chai": "^4.3.0",
+    "chai-arrays": "^2.2.0",
+    "chai-string": "^1.5.0",
     "mocha": "^8.3.0"
-  }
+  },
+  "dependencies": {}
 }
