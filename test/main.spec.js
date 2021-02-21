@@ -52,7 +52,10 @@ describe('Checklist', function () {
     });
     it('has unique urls', function () {
       var items = srcMd.match(/(?<=\* \[*.*\]\()(.*?)(?=\))/g);
+      
+      // this link appears twice hence filtering it      
       var items = arrayRemove(items, 'https://github.com/abhivaikar/howtheytest');
+      
       var hasDuplicate = items.some((val, i) => items.indexOf(val) !== i);
       expect(hasDuplicate).to.equal(false,  'List has duplicate link');
     });
