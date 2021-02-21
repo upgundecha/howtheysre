@@ -20,5 +20,5 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-      run: npm ci && npm test
+    - run: npm ci && npm test
       
