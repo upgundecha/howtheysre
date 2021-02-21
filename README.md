@@ -378,13 +378,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Three months, 30x demand: How we scaled Google Meet during COVID-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
 * [SRE Classroom: Distributed PubSub](https://sre.google/resources/practices-and-processes/distributed-pubsub/)
 
-### Books
-
-* [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
-* [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
-* [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
-* [Training Site Reliability Engineers](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
-
 ### Videos
 
 * [What's the Difference Between DevOps and SRE? with Seth Vargo and Liz Fong-Jones of Google](https://youtu.be/uTEL8Ff1Zvk)
@@ -481,6 +474,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Insights into a Product SRE team at LinkedIn](https://www.linkedin.com/pulse/insights-product-sre-team-linkedin-zaina-afoulki/?trackingId=mxKJgZ3kp8l2WI9D4UZv7Q%3D%3D)
+* [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 * [Open source update: School of SRE](https://engineering.linkedin.com/blog/2021/open-source-update--school-of-sre)
 * [Fixing Linux filesystem performance regressions](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 * [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
@@ -493,13 +487,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Project STAR*: Streamlining Our On-Call Process](https://engineering.linkedin.com/blog/2018/01/project-star-streamlining-our-on-call-process)
 * [Automating Your Oncall: Open Sourcing Fossor and Ascii Etch](https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch)
 * [Resilience Engineering at LinkedIn with Project Waterbear](https://engineering.linkedin.com/blog/2017/11/resilience-engineering-at-linkedin-with-project-waterbear)
-* [Hiring SREs at LinkedIn](https://engineering.linkedin.com/blog/2017/07/hiring-sres-at-linkedin)
+* [Hiring SREs at LinkedIn, 2017](https://engineering.linkedin.com/blog/2017/07/hiring-sres-at-linkedin)
 * [Open Sourcing Iris and Oncall](https://engineering.linkedin.com/blog/2017/06/open-sourcing-iris-and-oncall)
 * [Building the SRE Culture at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin)
 * [Failure is Not an Option](https://engineering.linkedin.com/blog/2017/01/failure-is-not-an-option)
 * [MTTD and MTTR Are Key](https://engineering.linkedin.com/blog/2016/12/mttd-and-mttr-are-key)
 * [What Gets Measured Gets Fixed](https://engineering.linkedin.com/blog/2016/12/what-gets-measured-gets-fixed)
-* [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 
 ### Videos
 
@@ -956,7 +949,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ## Credits
 
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
-* The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering).
+* The list of organizations is referred from my other repo [awesome-engineering](https://github.com/upgundecha/awesome-engineering)
 * Banner image [Cartoon vector created by vectorjuice - www.freepik.com](https://www.freepik.com/vectors/cartoon)
 
 ## Other How They... repos
