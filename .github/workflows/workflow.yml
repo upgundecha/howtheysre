@@ -16,9 +16,11 @@ jobs:
         files: README.md
         config_file: ".markdownlint.json"
    
-    - name: Setup and run check list
+    - name: Node setup
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - run: npm ci && npm test
+        
+    - name: Run Checklist
+      run: npm ci && npm test
       
