@@ -20,7 +20,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-        
+    
     - name: Run Checklist
-      run: npm ci && npm test
+      run: npm ci && npx eslint test/. && npm run test
       
