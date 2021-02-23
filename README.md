@@ -825,6 +825,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Teads</summary>
+
+### Blog Posts
+
+* [Scaling your on-duty team](https://medium.com/teads-engineering/scaling-your-on-duty-team-bc467c480747)
+
+</details>
+
+<details>
   <summary>Trivago</summary>
 
 ### Blog Posts
