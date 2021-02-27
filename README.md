@@ -955,14 +955,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Other Goodies
 
+#### Awesome Lists
+
 * [Awesome SRE](https://github.com/dastergon/awesome-sre)
 * [Awesome Site Reliability Engineering Tools](https://github.com/SquadcastHub/awesome-sre-tools)
 * [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
-* [Awesome-Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+* [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+* [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 * [Awesome Sysadmin](https://project-awesome.org/n1trux/awesome-sysadmin)
+
+#### SRE Resources from various organizations
+
 * [Google SRE Page](https://sre.google/)
+* [Google SRE Classroom](https://sre.google/classroom/)
 * [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
+
+#### Newsletters
+
 * [SRE Weekly Newsletter](https://sreweekly.com/)
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
