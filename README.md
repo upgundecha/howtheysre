@@ -885,6 +885,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Yelp - What I Wish I Knew before Going On-Call](https://www.usenix.org/conference/srecon19emea/presentation/shu)
 
+</details>
+
 <details>
   <summary>Zerodha</summary>
 
