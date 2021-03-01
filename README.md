@@ -245,6 +245,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Your brain on progress](https://increment.com/reliability/brain-on-progress/)
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
 * [Demystifying Site Outages](https://blog.etsy.com/news/2012/demystifying-site-outages/)
@@ -874,6 +875,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Yelp</summary>
+
+### Blog Posts
+
+* [The process: Implementing Yelp’s failover strategy](https://increment.com/reliability/yelp-traffic-failover-strategy/)
+
+### Videos
+
+* [Yelp - What I Wish I Knew before Going On-Call](https://www.usenix.org/conference/srecon19emea/presentation/shu)
+
+<details>
   <summary>Zerodha</summary>
 
 ### Blog Posts
@@ -912,7 +924,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Udemy - How to Do SRE When You Have No SRE](https://www.usenix.org/conference/srecon19emea/presentation/ocallaghan)
 * [Vanguard - Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)
 * [WeWork - Learning from Learnings: Anatomy of Three Incidents](https://www.usenix.org/conference/srecon19americas/presentation/shoup)
-* [Yelp - What I Wish I Knew before Going On-Call](https://www.usenix.org/conference/srecon19emea/presentation/shu)
 * [Zendesk - Latency and Availability Error Budgets Done Right at Scale](https://www.usenix.org/conference/srecon20americas/presentation/moyer)
 
 ---
@@ -961,6 +972,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Google SRE Classroom](https://sre.google/classroom/)
 * [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
+* [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 
 #### Newsletters
 
