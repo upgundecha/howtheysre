@@ -661,6 +661,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Red Hat</summary>
+
+### Blog Posts
+
+* [From Ops to SRE: Evolution of the OpenShift Dedicated Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
+* [5 Agile Practices Every SRE Team Should Adopt](https://www.openshift.com/blog/5-agile-practices-every-sre-team-should-adopt)
+* [7 Best Practices for Writing Kubernetes Operators: An SRE Perspective](https://www.openshift.com/blog/7-best-practices-for-writing-kubernetes-operators-an-sre-perspective)
+
+</details>
+
+<details>
   <summary>Scribd</summary>
 
 ### Blog Posts
