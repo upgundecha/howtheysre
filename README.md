@@ -967,6 +967,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 * [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 * [Awesome Sysadmin](https://project-awesome.org/n1trux/awesome-sysadmin)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+* [ML-Ops.org](https://ml-ops.org/)
 
 #### SRE Resources from various organizations
 
