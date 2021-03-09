@@ -245,7 +245,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/)
+* [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/2021/02/25/how-etsy-prepared-for-historic-volumes-of-holiday-traffic-in-2020/)
 * [Your brain on progress](https://increment.com/reliability/brain-on-progress/)
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
