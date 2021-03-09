@@ -245,6 +245,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/)
 * [Your brain on progress](https://increment.com/reliability/brain-on-progress/)
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
@@ -307,6 +308,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: February 2021](https://github.blog/2021-03-03-github-availability-report-february-2021/)
 * [GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/)
 * [GitHub Availability Report: December 2020](https://github.blog/2021-01-06-github-availability-report-december-2020/)
 * [GitHub Availability Report: November 2020](https://github.blog/2020-12-02-availability-report-november-2020/)
@@ -987,6 +989,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 * [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 * [Awesome Sysadmin](https://project-awesome.org/n1trux/awesome-sysadmin)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+* [ML-Ops.org](https://ml-ops.org/)
 
 #### SRE Resources from various organizations
 
