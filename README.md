@@ -246,7 +246,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/)
+* [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/2021/02/25/how-etsy-prepared-for-historic-volumes-of-holiday-traffic-in-2020/)
 * [Your brain on progress](https://increment.com/reliability/brain-on-progress/)
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
@@ -665,6 +665,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Red Hat</summary>
+
+### Blog Posts
+
+* [From Ops to SRE: Evolution of the OpenShift Dedicated Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
+* [5 Agile Practices Every SRE Team Should Adopt](https://www.openshift.com/blog/5-agile-practices-every-sre-team-should-adopt)
+* [7 Best Practices for Writing Kubernetes Operators: An SRE Perspective](https://www.openshift.com/blog/7-best-practices-for-writing-kubernetes-operators-an-sre-perspective)
+
+</details>
+
+<details>
   <summary>Scribd</summary>
 
 ### Blog Posts
@@ -827,6 +838,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [On Infrastructure at Scale: A Cascading Failure of Distributed Systems](https://tech.target.com/2019/01/14/cascading-failure-of-distributed-systems.html)
 * [Distributed Troubleshooting](https://tech.target.com/2017/04/05/distributed-troubleshooting.html)
 * [Outage Resolution Through Automation](https://tech.target.com/2014/12/29/outage-resolution-through-automation.html)
+
+</details>
+
+<details>
+  <summary>Teads</summary>
+
+### Blog Posts
+
+* [Scaling your on-duty team](https://medium.com/teads-engineering/scaling-your-on-duty-team-bc467c480747)
 
 </details>
 
