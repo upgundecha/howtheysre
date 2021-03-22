@@ -792,6 +792,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/)
+* [Infrastructure as code: Create and configure infrastructure elements in seconds](https://stackoverflow.blog/2021/03/08/infrastructure-as-code-create-and-configure-infrastructure-elements-in-seconds/)
+* [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/)
 * [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 * [Guest Post - Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
 
@@ -955,8 +958,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [What Is SRE?](https://www.oreilly.com/library/view/what-is-sre/9781492054429/)
 * [Database Reliability Engineering: What, Why, and How?](https://www.oreilly.com/library/view/database-reliability-engineering/9781492030942/)
 * [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-* [_New!_ Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
-
+* [Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
+* [_New!_ Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/)
 ### Events
 
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
