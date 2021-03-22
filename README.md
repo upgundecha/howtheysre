@@ -478,6 +478,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Rethinking site capacity projections with Capacity Analyzer](https://engineering.linkedin.com/blog/2021/rethinking-site-capacity-projections-with-capacity-analyzer)
 * [Insights into a Product SRE team at LinkedIn](https://www.linkedin.com/pulse/insights-product-sre-team-linkedin-zaina-afoulki/?trackingId=mxKJgZ3kp8l2WI9D4UZv7Q%3D%3D)
 * [Hiring SREs at LinkedIn](https://engineering.linkedin.com/engineering-culture/hiring-sres-linkedin)
 * [Open source update: School of SRE](https://engineering.linkedin.com/blog/2021/open-source-update--school-of-sre)
@@ -980,6 +981,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * [Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
 * [_New!_ Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/)
+
 ### Events
 
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
