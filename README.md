@@ -36,7 +36,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [Enter the Abattoir - Building `a la carte` gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
+* [Enter the Abattoir - Building 'à la carte' gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
 
 </details>
 
