@@ -686,6 +686,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Schibsted Media</summary>
+
+### Blog Posts
+
+* [Reliability engineering for some of top 10 sites in Scandinavia](https://alexewerlof.medium.com/reliability-engineering-for-some-of-top-10-sites-in-scandinavia-91e388d8d13a)
+
+</details>
+
+<details>
   <summary>Scribd</summary>
 
 ### Blog Posts
