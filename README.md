@@ -528,6 +528,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Loggi</summary>
+
+### Blog Posts
+  
+* [The Release Manager model](https://partiu.loggi.com/the-release-manager-model-7af93f9f499f)
+
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 ### Blog Posts
