@@ -449,6 +449,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Halodoc</summary>
+
+### Blog Posts
+
+* [Site Reliability Engineering for Native mobile apps](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/)
+
+</details>
+
+<details>
   <summary>Heroku</summary>
 
 ### Blog Posts
