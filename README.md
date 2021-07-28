@@ -908,6 +908,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   <summary>Twilio</summary>
 
 ### Blog Posts
+
 * [Twilio SRE Gameday Template](https://github.com/twilio/gameday/blob/main/get_to_know_your_systems.md) 
 </details>
 
