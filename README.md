@@ -224,6 +224,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Dropbox Engineering Career Framework - Reliability Engineer (SRE)](https://dropbox.github.io/dbx-career-framework/)
 * [Atlas: Our journey from a Python monolith to a managed platform](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Monitoring server applications with Vortex](https://dropbox.tech/infrastructure/monitoring-server-applications-with-vortex)
 * [Athena: Our automated build health management system](https://dropbox.tech/infrastructure/athena-our-automated-build-health-management-system)
@@ -430,6 +431,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Our Journey to Continuous Delivery at Grab (Part 1)](https://engineering.grab.com/our-journey-to-continuous-delivery-at-grab)
+* [Our Journey to Continuous Delivery at Grab (Part 2)](https://engineering.grab.com/blog/2/)
 * [Designing Resilient Systems: Circuit Breakers or Retries? (Part 1)](https://engineering.grab.com/designing-resilient-systems-part-1)
 * [Designing Resilient Systems: Circuit Breakers or Retries? (Part 2)](https://engineering.grab.com/designing-resilient-systems-part-2)
 * [Designing Resilient Systems Beyond Retries (Part 3): Architecture Patterns and Chaos Engineering](https://engineering.grab.com/beyond-retries-part-3)
@@ -778,6 +780,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How to Implement Service Level Objectives in New Relic APM](https://medium.com/slalom-build/how-to-implement-service-level-objectives-in-new-relic-apm-f34f8746118b)
 * [Beginners Guide to DevOps: How to Make It into the Industry](https://medium.com/slalom-build/beginners-guid-to-devops-how-to-make-it-into-the-industry-c1652d59807)
 * [GitHub Actions: Beyond CI/CD](https://medium.com/slalom-build/github-actions-beyond-ci-cd-cb3ddc6abaa)
 * [Why isn’t all test automation run on the pipeline?](https://medium.com/slalom-build/why-isnt-all-test-automation-run-on-the-pipeline-b2c57afbdf5a)
@@ -797,6 +800,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How to Successfully Hand Over Systems](https://developers.soundcloud.com/blog/how-to-successfully-hand-over-systems)
 * [Building a Healthy On-Call Culture](https://developers.soundcloud.com/blog/building-a-healthy-on-call-culture)
 * [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
 * [Hands-Off Deployment with Canary](https://developers.soundcloud.com/blog/hands-off-deployment-with-canary)
@@ -810,6 +814,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Designing a Better Kubernetes Experience for Developers](https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/)
 * [Techbytes: What The Industry Misses About Incidents and What You Can Do](https://engineering.atspotify.com/2020/02/26/techbytes-what-the-industry-misses-about-incidents-and-what-you-can-do/)
 * [Automated Incident Response Infrastructure in GCP](https://engineering.atspotify.com/2019/04/04/whacking-a-million-moles-automated-incident-response-infrastructure-in-gcp/)
 
@@ -896,6 +901,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [How To Get Fooled By Metrics](https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/)
+
+</details>
+
+<details>
+  <summary>Twilio</summary>
+
+### Blog Posts
+
+* [Twilio SRE Gameday Template](https://github.com/twilio/gameday/blob/main/get_to_know_your_systems.md)
 
 </details>
 
@@ -1022,6 +1036,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
 * [ChaosConf](https://www.chaosconf.io/)
+* [SLOConf](https://www.sloconf.com/)
+  * [SLOConf 2021 Playlist](https://www.youtube.com/watch?v=-lHPDx90Ppg&list=PLLNq9CBV7AFwyRzICyCRKdcsAPAlG5bPu)
+* [cdCon](https://events.linuxfoundation.org/cdcon/)
+  * [cdCon 2021 Playlist](https://www.youtube.com/watch?v=MQU4fKhau1w&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah)
+  * [cdCon 2020 Playlist](https://www.youtube.com/watch?v=qLMrcEj-R9Y&list=PL2KXbZ9-EY9RbYURc1CDrOJpbrPMtc0P7)
 
 ### Other Goodies
 
