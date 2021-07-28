@@ -32,6 +32,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ## Organizations
 
 <details>
+  <summary>Achievers</summary>
+
+### Blog Posts
+
+* [Enter the Abattoir - Building 'à la carte' gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
+
+</details>
+
+<details>
   <summary>Airbnb</summary>
 
 ### Blog Posts
@@ -442,6 +451,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Halodoc</summary>
+
+### Blog Posts
+
+* [Site Reliability Engineering for Native mobile apps](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/)
+
+</details>
+
+<details>
   <summary>Heroku</summary>
 
 ### Blog Posts
@@ -517,6 +535,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Understanding Business Metrics Can Make You a Better SRE](https://www.usenix.org/conference/srecon19asia/presentation/suley)
 * [Code-Yellow: Helping Operations Top-Heavy Teams the Smart Way](https://www.usenix.org/conference/srecon19americas/presentation/kehoe)
 * [Differences in SRE Implementations across Companies](https://www.usenix.org/conference/srecon19americas/presentation/andersen)
+
+</details>
+
+<details>
+  <summary>Loggi</summary>
+
+### Blog Posts
+  
+* [The Release Manager model](https://partiu.loggi.com/the-release-manager-model-7af93f9f499f)
 
 </details>
 
@@ -675,6 +702,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [From Ops to SRE: Evolution of the OpenShift Dedicated Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
 * [5 Agile Practices Every SRE Team Should Adopt](https://www.openshift.com/blog/5-agile-practices-every-sre-team-should-adopt)
 * [7 Best Practices for Writing Kubernetes Operators: An SRE Perspective](https://www.openshift.com/blog/7-best-practices-for-writing-kubernetes-operators-an-sre-perspective)
+
+</details>
+
+<details>
+  <summary>Schibsted Media</summary>
+
+### Blog Posts
+
+* [Reliability engineering for some of top 10 sites in Scandinavia](https://alexewerlof.medium.com/reliability-engineering-for-some-of-top-10-sites-in-scandinavia-91e388d8d13a)
 
 </details>
 
