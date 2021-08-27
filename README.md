@@ -544,6 +544,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
   
 * [The Release Manager model](https://partiu.loggi.com/the-release-manager-model-7af93f9f499f)
+* [SRE Teams #8: Loggi](https://sreteams.substack.com/p/loggi)
 
 </details>
 
