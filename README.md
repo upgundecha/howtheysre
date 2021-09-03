@@ -164,7 +164,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-*[Automate Application Monitoring with Slack](https://www.capitalone.com/tech/software-engineering/how-to-automate-application-monitoring-slack-bots/)
+* [Automate Application Monitoring with Slack](https://www.capitalone.com/tech/software-engineering/how-to-automate-application-monitoring-slack-bots/)
 * [Automate AWS Infrastructure with Boto 3: AWS Health Check](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-health-checks-e51338ba075)
 * [Active-Active Shared-Nothing Database Architecture](https://medium.com/capital-one-tech/active-active-shared-nothing-database-architecture-304957ffb89)
 * [The 3 R’s of SREs: Resiliency, Recovery & Reliability](https://medium.com/capital-one-tech/the-3-rs-of-sres-resiliency-recovery-reliability-5f2f5360a91b)
