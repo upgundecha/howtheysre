@@ -389,6 +389,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/articles/pitfalls-patterns-microservice-dependency-management/)
 * [SRE Practices & Processes](https://sre.google/resources/#practicesandprocesses)
 * [Three months, 30x demand: How we scaled Google Meet during COVID-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
 * [SRE Classroom: Distributed PubSub](https://sre.google/resources/practices-and-processes/distributed-pubsub/)
@@ -665,6 +666,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Detecting Service Degradation and Failures at Scale through Distributed Log Processing](https://www.usenix.org/conference/srecon19asia/presentation/narayanan)
 * [Operating Elasticsearch with Ease at Scale](https://www.usenix.org/conference/srecon19asia/presentation/sankaravadivel)
 * [Ensuring Site Reliability through Security Controls](https://www.usenix.org/conference/srecon19asia/presentation/janakiraman)
+
+</details>
+
+<details>
+  <summary>Picnic</summary>
+
+### Blog Posts
+
+* [Micrometer and the Modern Observability Stack](https://blog.picnic.nl/micrometer-and-the-modern-observability-stack-ebf72283bd8e)
+* [Monitoring and Observability at Picnic](https://blog.picnic.nl/monitoring-and-observability-at-picnic-684cefd845c4)
 
 </details>
 
@@ -1043,7 +1054,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   * [cdCon 2021 Playlist](https://www.youtube.com/watch?v=MQU4fKhau1w&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah)
   * [cdCon 2020 Playlist](https://www.youtube.com/watch?v=qLMrcEj-R9Y&list=PL2KXbZ9-EY9RbYURc1CDrOJpbrPMtc0P7)
 
-### Other Goodies
+### Other Resources
 
 #### Awesome Lists
 
@@ -1060,9 +1071,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Google SRE Page](https://sre.google/)
 * [Google SRE Classroom](https://sre.google/classroom/)
+* [Google Cloud SRE Page](https://cloud.google.com/sre)
 * [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
+* [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 
 #### Newsletters
 
