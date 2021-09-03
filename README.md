@@ -164,6 +164,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Automate Application Monitoring with Slack](https://www.capitalone.com/tech/software-engineering/how-to-automate-application-monitoring-slack-bots/)
 * [Automate AWS Infrastructure with Boto 3: AWS Health Check](https://medium.com/capital-one-tech/automate-aws-infrastructure-with-boto-3-aws-health-checks-e51338ba075)
 * [Active-Active Shared-Nothing Database Architecture](https://medium.com/capital-one-tech/active-active-shared-nothing-database-architecture-304957ffb89)
 * [The 3 R’s of SREs: Resiliency, Recovery & Reliability](https://medium.com/capital-one-tech/the-3-rs-of-sres-resiliency-recovery-reliability-5f2f5360a91b)
@@ -201,6 +202,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Site Reliability Engineering at DBS Bank](https://medium.com/dbs-tech-blog/site-reliability-engineering-at-dbs-bank-32c02228ccf4)
 * [Automating Configuration Management at Scale](https://medium.com/dbs-tech-blog/automating-configuration-management-at-scale-5c7927f83df3)
+* [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)
+* [Double, Double Toil and Trouble](https://medium.com/dbs-tech-blog/double-double-toil-and-trouble-applying-sre-practices-to-alleviate-toil-for-devops-teams-259b958a10dd)
 
 ### Videos
 
@@ -610,6 +613,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Achieving observability in async workflows](https://netflixtechblog.com/achieving-observability-in-async-workflows-cd89b923c784)
 * [Building Netflix’s Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Lessons from Building Observability Tools at Netflix](https://netflixtechblog.com/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
@@ -684,6 +688,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Improving efficiency and reducing runtime using S3 read optimization](https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0)
+* [Scaling Kubernetes with Assurance at Pinterest](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)
+* [What we learned from an iOS app OOMs incident](https://medium.com/pinterest-engineering/what-we-learned-from-an-ios-app-ooms-incident-eb31eada251)
+* [How we designed our Continuous Integration System to be more than 50% Faster](https://medium.com/pinterest-engineering/how-we-designed-our-continuous-integration-system-to-be-more-than-50-faster-b70a59342fe2)
 * [Simplifying web deploys](https://medium.com/pinterest-engineering/simplifying-web-deploys-19244fe13737)
 * [Upgrading Pinterest operational metrics](https://medium.com/pinterest-engineering/upgrading-pinterest-operational-metrics-8718d058079a)
 * [Distributed tracing at Pinterest with new open source tools](https://medium.com/pinterest-engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b)
@@ -926,6 +934,20 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Twitter</summary>
+
+### Blog Posts
+
+* [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+* [Deleting data distributed throughout your microservices architecture](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture)
+* [Deterministic Aperture: A distributed, load balancing algorithm](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer)
+* [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb)
+* [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+* [The infrastructure behind Twitter: efficiency and optimization](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization)
+
+</details>
+
+<details>
   <summary>Uber</summary>
 
 ### Blog Posts
@@ -962,6 +984,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Testing Encyclopedias in Production](https://www.usenix.org/conference/srecon20americas/presentation/mouzeli)
 * [What Happens When You Type en.wikipedia.org?](https://www.usenix.org/conference/srecon19emea/presentation/mouzeli)
+
+</details>
+
+<details>
+  <summary>Wix</summary>
+
+### Blog Posts
+
+* [How We Improved Website Performance by Evolving Our Infrastructure](https://www.wix.engineering/post/how-we-improved-website-performance-by-evolving-our-infrastructure)
+* [Wix Inbox Journey: 3 Approaches for Zero Downtime Database Migration](https://www.wix.engineering/post/wix-inbox-journey-3-approaches-for-zero-downtime-database-migration)
+* [Moving Velo to Multiple Container Sites: The Why, The How and The Lessons Learned](https://www.wix.engineering/post/moving-velo-to-multiple-container-sites-the-why-the-how-and-the-lessons-learned)
+* [Making Order in CI/CD Mess](https://www.wix.engineering/post/making-order-in-ci-cd-mess)
 
 </details>
 
