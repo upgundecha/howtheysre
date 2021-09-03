@@ -1083,7 +1083,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
-* [Chaos Engineering Newsletter](https://chaosengineering.news/)
 
 ## Credits
 
