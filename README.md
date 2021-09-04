@@ -196,6 +196,21 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Coinbase</summary>
+
+### Blog Posts
+
+* [A Deep Dive into the Recent BCH Hard Fork Incident](https://blog.coinbase.com/a-deep-dive-into-the-recent-bch-hard-fork-incident-2ee14132f435)
+* [Blockchain Infrastructure at Coinbase](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
+* [Logs, metrics, and the evolution of observability at Coinbase](https://blog.coinbase.com/logs-metrics-and-the-evolution-of-observability-at-coinbase-13196b15edb7)
+* [Reliability Engineering at Coinbase](https://blog.coinbase.com/reliability-engineering-at-coinbase-8b6956ba802f)
+* [Introducing Salus: How Coinbase scales security automation](https://blog.coinbase.com/introducing-salus-how-coinbase-scales-security-automation-1ba5e8074937)
+* [How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud](https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
+* [Open Sourcing Coinbase’s Secure Deployment Pipeline](https://blog.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517)
+  
+</details>
+
+<details>
   <summary>DBS</summary>
 
 ### Blog Posts
@@ -259,6 +274,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Improving the Deployment Experience of a Ten-Year Old Application](https://codeascraft.com/)
 * [How Etsy Prepared for Historic Volumes of Holiday Traffic in 2020](https://codeascraft.com/2021/02/25/how-etsy-prepared-for-historic-volumes-of-holiday-traffic-in-2020/)
 * [Your brain on progress](https://increment.com/reliability/brain-on-progress/)
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
@@ -726,6 +742,34 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Riot Games</summary>
+
+### Blog Posts
+
+* [THE LEGENDS OF RUNETERRA CI/CD PIPELINE](https://technology.riotgames.com/news/legends-runeterra-cicd-pipeline)
+* [STRATEGIES FOR WORKING IN UNCERTAIN SYSTEMS](https://technology.riotgames.com/news/strategies-working-uncertain-systems)
+* [IMPROVING THE DEVELOPER EXPERIENCE FOR OPERATING SERVICES](https://technology.riotgames.com/news/improving-developer-experience-operating-services)
+* [SCALABILITY AND LOAD TESTING FOR VALORANT](https://technology.riotgames.com/news/scalability-and-load-testing-valorant)
+* [LEVERAGING GOLANG FOR GAME DEVELOPMENT AND OPERATIONS](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)
+* [CONTROLLED CHAOS WITH FAULT INJECTION TESTING](https://technology.riotgames.com/)
+* [DOWN THE RABBIT HOLE OF PERFORMANCE MONITORING](https://technology.riotgames.com/news/down-rabbit-hole-performance-monitoring)
+* [PROFILING: THE CASE OF THE MISSING MILLISECONDS](https://technology.riotgames.com/news/profiling-case-missing-milliseconds)
+* [PROFILING: REAL WORLD PERFORMANCE IN LEAGUE](https://technology.riotgames.com/news/profiling-real-world-performance-league)
+* [PROFILING: OPTIMISATION](https://technology.riotgames.com/news/profiling-optimisation)
+* [PROFILING: MEASUREMENT AND ANALYSIS](https://technology.riotgames.com/news/profiling-measurement-and-analysis)
+* [RUNNING ONLINE SERVICES AT RIOT: PART I](https://technology.riotgames.com/news/running-online-services-riot-part-i)
+* [RUNNING ONLINE SERVICES AT RIOT: PART II](https://technology.riotgames.com/news/running-online-services-riot-part-ii)
+* [RUNNING ONLINE SERVICES AT RIOT: PART III](https://technology.riotgames.com/news/running-online-services-riot-part-iii)
+* [RUNNING ONLINE SERVICES AT RIOT: PART III: PART DEUX](https://technology.riotgames.com/news/running-online-services-riot-part-iii-part-deux)
+* [RUNNING ONLINE SERVICES AT RIOT: PART IV](https://technology.riotgames.com/news/running-online-services-riot-part-iv)
+* [RUNNING ONLINE SERVICES AT RIOT: PART V](https://technology.riotgames.com/news/running-online-services-riot-part-v)
+* [THE EVOLUTION OF SECURITY AT RIOT](https://technology.riotgames.com/news/evolution-security-riot)
+* [RUNNING AN AUTOMATED TEST PIPELINE FOR THE LEAGUE CLIENT UPDATE](https://technology.riotgames.com/news/running-automated-test-pipeline-league-client-update)
+* [AUTOMATED TESTING FOR LEAGUE OF LEGENDS](https://technology.riotgames.com/news/automated-testing-league-legends)
+
+</details>
+
+<details>
   <summary>Schibsted Media</summary>
 
 ### Blog Posts
@@ -874,6 +918,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Videos
 
 * [Low Context DevOps: Improving SRE Team Culture through Defaults, Documentation, and Discipline](https://www.usenix.org/conference/srecon20americas/presentation/limoncelli)
+
+</details>
+
+<details>
+  <summary>Strava</summary>
+
+### Blog Posts
+
+* [Scaling Club Leaderboard Infrastructure for Millions of Users](https://medium.com/strava-engineering/scaling-club-leaderboard-infrastructure-for-millions-of-users-9ee857ce8cfe)
+* [Distributed Tracing at Strava](https://medium.com/strava-engineering/distributed-tracing-at-strava-e9d784b9ddf2)
 
 </details>
 
