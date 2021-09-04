@@ -324,6 +324,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Getaround</summary>
+
+### Blog Posts
+
+* [How we handle incidents at Getaround](https://getaround.tech/incident-handling-at-getaround/)
+* [Evolution Of Our Continuous Delivery Process](https://getaround.tech/continuous-integration/)
+
+</details>
+
+<details>
   <summary>GitHub</summary>
 
 ### Blog Posts
@@ -970,6 +980,20 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Tinder</summary>
+
+### Blog Posts
+
+* [The Ultimate Load Test](https://medium.com/tinder-engineering/the-ultimate-load-test-c32b37adc11b)
+* [How We Improved Our Performance Using ElasticSearch Plugins: Part 1](https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-1-b0850a7e5224)
+* [How We Improved Our Performance Using ElasticSearch Plugins: Part 2](https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b)
+* [Tinder’s move to Kubernetes](https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44)
+
+</details>
+
+### Blog Posts
+
+<details>
   <summary>Trivago</summary>
 
 ### Blog Posts
@@ -1015,6 +1039,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [A Tale of Two Rotations: Building a Humane & Effective On-Call](https://www.usenix.org/conference/srecon19emea/presentation/lee)
 * [Testing in Production at Scale](https://www.usenix.org/conference/srecon19americas/presentation/gud)
 * [A History of SRE at Uber’ with Rick Boone of Uber](https://www.youtube.com/watch?v=qJnS-EfIIIE)
+
+</details>
+
+<details>
+  <summary>upGrad</summary>
+
+### Blog Posts
+
+* [Web Performance and Related Stories — upgrad.com](https://engineering.upgrad.com/web-performance-and-related-stories-upgrad-com-a9fb9c6bb766)
+* [Beginner’s guide to web analytics](https://engineering.upgrad.com/beginners-guide-to-analytics-c8ce3e92fa42)
+* [iOS Continuous Deployment with Bitbucket, Jenkins and Fastlane at UpGrad](https://engineering.upgrad.com/ios-continuous-deployment-with-bitbucket-jenkins-and-fastlane-at-upgrad-699b3b48acca)
 
 </details>
 
