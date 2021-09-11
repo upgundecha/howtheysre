@@ -1058,8 +1058,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 </details>
 
-### Blog Posts
-
 <details>
   <summary>Trivago</summary>
 
