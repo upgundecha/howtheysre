@@ -617,7 +617,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 <details>
   <summary>Macquarie</summary>
 
- ### Blog Posts
+### Blog Posts
 
  * [Our DevSecOps journey with Golang](https://medium.com/macquarie-engineering-blog/our-devsecops-journey-with-golang-a1af38328c36)
  * [Pipeline Configuration as Code with Kotlin](https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa)
