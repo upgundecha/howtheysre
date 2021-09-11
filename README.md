@@ -366,6 +366,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
+* [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
 * [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
 * [Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/)
 * [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
@@ -377,6 +379,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
+* [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
+* [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
+* [GitHub Availability Report: May 2021](https://github.blog/2021-06-02-github-availability-report-may-2021/)
+* [GitHub Availability Report: April 2021](https://github.blog/2021-05-05-github-availability-report-april-2021/)
+* [GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/)
 * [GitHub Availability Report: February 2021](https://github.blog/2021-03-03-github-availability-report-february-2021/)
 * [GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/)
 * [GitHub Availability Report: December 2020](https://github.blog/2021-01-06-github-availability-report-december-2020/)
@@ -817,6 +825,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [THE EVOLUTION OF SECURITY AT RIOT](https://technology.riotgames.com/news/evolution-security-riot)
 * [RUNNING AN AUTOMATED TEST PIPELINE FOR THE LEAGUE CLIENT UPDATE](https://technology.riotgames.com/news/running-automated-test-pipeline-league-client-update)
 * [AUTOMATED TESTING FOR LEAGUE OF LEGENDS](https://technology.riotgames.com/news/automated-testing-league-legends)
+
+</details>
+
+<details>
+  <summary>Salesforce</summary>
+
+### Blog Posts
+
+* [Looking at the Kubernetes Control Plane for Multi-Tenancy](https://engineering.salesforce.com/looking-at-the-kubernetes-control-plane-for-multi-tenancy-88914cd7aa89)
+* [Optimizing EKS networking for scale](https://engineering.salesforce.com/optimizing-eks-networking-for-scale-1325706c8f6d)
+* [Zero Downtime Node Patching in a Kubernetes Cluster](https://engineering.salesforce.com/zero-downtime-node-patching-in-a-kubernetes-cluster-cdceb21c8c8c)
+* [How, Not Why: An Alternative to the Five Whys for Post-Mortems](https://engineering.salesforce.com/how-not-why-an-alternative-to-the-five-whys-for-post-mortems-4518098cca17)
+* [A Generic Sidecar Injector for Kubernetes](https://engineering.salesforce.com/a-generic-sidecar-injector-for-kubernetes-c05eede1f6bb)
+* [Implementation of a monitoring strategy for products based on microservices](https://engineering.salesforce.com/implementation-of-a-monitoring-strategy-for-products-based-on-microservices-24ad24c4c3e5)
+* [10 Steps to Develop an Incident Response Plan You’ll ACTUALLY Use](https://engineering.salesforce.com/10-steps-to-develop-an-incident-response-plan-youll-actually-use-6cc49d9bf94c)
+* [Our Journey to a Near Perfect Log Pipeline](https://engineering.salesforce.com/our-journey-to-a-near-perfect-log-pipeline-6ae2f80cf7a0)
+* [Optimizing Performance with Web Workers](https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d)
+* [Take A Moment To Refocus](https://engineering.salesforce.com/take-a-moment-to-refocus-86b6546c90c)
 
 </details>
 
