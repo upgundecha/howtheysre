@@ -66,6 +66,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How Asana uses Asana: Security incident response](https://blog.asana.com/2021/09/engineering-security-incident-response/#close)
 * [How Asana ships stable web application releases](https://blog.asana.com/2021/01/asana-engineering-ships-web-application-releases/)
 * [Analysis of recent downtime & what we’re doing to prevent future incidents](https://blog.asana.com/2019/09/downtime-what-were-doing-to-prevent-future-downtime/)
 * [Developer environment: Achieving reliability by making it fast to reset](https://blog.asana.com/2017/07/developer-environment-making-it-reliable-by-making-it-fast-to-reset/)
@@ -234,6 +235,20 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Redis diskless replication: What, how, why and the caveats](https://deepsource.io/blog/redis-diskless-replication/)
 * [How to setup Vault with Kubernetes](https://deepsource.io/blog/setup-vault-kubernetes/)
 * [Breaking down zero downtime deployments in Kubernetes](https://deepsource.io/blog/zero-downtime-deployment/)
+
+</details>
+
+<details>
+  <summary>Dream11</summary>
+
+### Blog Posts
+
+* [Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
+* [Break circuits, save Kong 🦍](https://blog.dream11engineering.com/break-circuits-save-kong-3680d88a0639)
+* [Finding Order in Chaos: How We Automated Performance Testing with Torque](https://blog.dream11engineering.com/finding-order-in-chaos-how-we-automated-performance-testing-with-torque-6eb63706fcea)
+* [Maintaining hyper-sonic releases at Dream11](https://blog.dream11engineering.com/maintaining-hyper-sonic-releases-at-dream11-c26f2145fe28)
+* [To Scale In Or Scale Out? Here’s How We Scale at Dream11](https://blog.dream11engineering.com/to-scale-in-or-scale-out-heres-how-we-scale-at-dream11-f88ef5e71cbc)
+* [Building Scalable Real Time Analytics, Alerting and Anomaly Detection Architecture at Dream11](https://blog.dream11engineering.com/building-scalable-real-time-analytics-alerting-and-anomaly-detection-architecture-at-dream11-e20edec91d33)
 
 </details>
 
