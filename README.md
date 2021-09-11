@@ -78,6 +78,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Playing the blame-less game](https://medium.com/asos-techblog/playing-the-blame-less-game-3708f8195344)
+* [A day in the life of… Cat S (Head of Reliability Engineering)](https://medium.com/asos-techblog/a-day-in-the-life-of-cat-smith-head-of-reliability-engineering-629e10a26590)
+* [An AKS Performance Journey: Part 1 — Sizing Everything Up](https://medium.com/asos-techblog/an-aks-performance-journey-part-1-sizing-everything-up-ee6d2346ea99)
+* [An AKS Performance Journey: Part 2 — Networking It Out](https://medium.com/asos-techblog/an-aks-performance-journey-part-2-networking-it-out-e253f5bb4f69)
 * [Cyber Security @ ASOS.com](https://medium.com/asos-techblog/cyber-security-asos-com-7d1d1f346e57)
 * [Security Operations 24x7](https://medium.com/asos-techblog/security-operations-24-x-7-2e90c8e5e7e)
 * [The skills we look for in Cyber Security Incident Response](https://medium.com/asos-techblog/the-skills-we-look-for-in-cyber-security-incident-response-12b327927e38)
@@ -310,6 +314,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Using Fault-Injection to Improve our new Runtime Platform’s Reliability](https://medium.com/expedia-group-tech/using-fault-injection-to-improve-our-new-platforms-reliability-656b1147b132)
+* [Learning from Incidents at Expedia Group](https://medium.com/expedia-group-tech/learning-from-incidents-at-expedia-group-51a8c72a4286)
+* [Improving Vrbo Homepage Loading Experience](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
+* [Troubleshooting 502 errors: ECS Checklist](https://medium.com/expedia-group-tech/troubleshooting-502-errors-ecs-checklist-9da383399d96)
+* [Getting Started with Elasticsearch](https://medium.com/expedia-group-tech/getting-started-with-elastic-search-6af62d7df8dd)
+* [All about ISTIO-PROXY 5xx Issues](https://medium.com/expedia-group-tech/all-about-istio-proxy-5xx-issues-e0221b29e692)
+* [Autoscaling in Kubernetes: Why doesn’t the Horizontal Pod Autoscaler work for me?](https://medium.com/expedia-group-tech/autoscaling-in-kubernetes-why-doesnt-the-horizontal-pod-autoscaler-work-for-me-5f0094694054)
+* [How to Keep Your Kubernetes Deployments Balanced Across Multiple zones](https://medium.com/expedia-group-tech/how-to-keep-your-kubernetes-deployments-balanced-across-multiple-zones-dfe719847b41)
+* [Are Your Dropwizard Latency Metrics Misleading You?](https://medium.com/expedia-group-tech/your-latency-metrics-could-be-misleading-you-how-hdrhistogram-can-help-9d545b598374)
 * [The Cost of 100% Reliability](https://medium.com/expedia-group-tech/the-cost-of-100-reliability-ecb2901f23a4)
 * [Creating Monitoring Dashboards](https://medium.com/expedia-group-tech/creating-monitoring-dashboards-1f3fbe0ae1ac)
 * [Using Bash for DevOps](https://medium.com/expedia-group-tech/using-bash-for-devops-7046eed1aa63)
@@ -590,6 +603,19 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   
 * [The Release Manager model](https://partiu.loggi.com/the-release-manager-model-7af93f9f499f)
 * [SRE Teams #8: Loggi](https://sreteams.substack.com/p/loggi)
+
+</details>
+
+<details>
+  <summary>Macquarie</summary>
+
+ ### Blog Posts
+
+ * [Our DevSecOps journey with Golang](https://medium.com/macquarie-engineering-blog/our-devsecops-journey-with-golang-a1af38328c36)
+ * [Pipeline Configuration as Code with Kotlin](https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa)
+ * [DevOps and Segregation of Duties](https://medium.com/macquarie-engineering-blog/devops-and-segregation-of-duties-ea4a7dcc7217)
+ * [Macquarie embraces DevOps](https://medium.com/macquarie-engineering-blog/macquarie-embraces-devops-30f0fe62496a)
+ * [Scaling a Kubernetes Platform across the Enterprise](https://medium.com/macquarie-engineering-blog/scaling-a-kubernetes-platform-across-the-enterprise-c07a53b6022e)
 
 </details>
 
