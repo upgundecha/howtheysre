@@ -619,11 +619,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
- * [Our DevSecOps journey with Golang](https://medium.com/macquarie-engineering-blog/our-devsecops-journey-with-golang-a1af38328c36)
- * [Pipeline Configuration as Code with Kotlin](https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa)
- * [DevOps and Segregation of Duties](https://medium.com/macquarie-engineering-blog/devops-and-segregation-of-duties-ea4a7dcc7217)
- * [Macquarie embraces DevOps](https://medium.com/macquarie-engineering-blog/macquarie-embraces-devops-30f0fe62496a)
- * [Scaling a Kubernetes Platform across the Enterprise](https://medium.com/macquarie-engineering-blog/scaling-a-kubernetes-platform-across-the-enterprise-c07a53b6022e)
+* [Our DevSecOps journey with Golang](https://medium.com/macquarie-engineering-blog/our-devsecops-journey-with-golang-a1af38328c36)
+* [Pipeline Configuration as Code with Kotlin](https://medium.com/macquarie-engineering-blog/pipeline-configuration-as-code-with-kotlin-dec9ab9ee6fa)
+* [DevOps and Segregation of Duties](https://medium.com/macquarie-engineering-blog/devops-and-segregation-of-duties-ea4a7dcc7217)
+* [Macquarie embraces DevOps](https://medium.com/macquarie-engineering-blog/macquarie-embraces-devops-30f0fe62496a)
+* [Scaling a Kubernetes Platform across the Enterprise](https://medium.com/macquarie-engineering-blog/scaling-a-kubernetes-platform-across-the-enterprise-c07a53b6022e)
 
 </details>
 
