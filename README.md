@@ -366,6 +366,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
 * [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
 * [Improving large monorepo performance on GitHub](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/)
@@ -737,6 +738,13 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 <details>
   <summary>PayPal</summary>
+
+### Blog Posts
+
+* [Triggered: Incident #1234 (incident process needs fixing)](https://medium.com/paypal-tech/triggered-incident-1234-incident-process-needs-fixing-2a09dbac9edd)
+* [Implementing Observability in a Service Mesh](https://medium.com/paypal-tech/implementing-observability-in-a-service-mesh-273c7409283d)
+* [PostgreSQL at Scale: Database Schema Changes Without Downtime](https://medium.com/paypal-tech/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680)
+* [Scaling GraphQL at PayPal](https://medium.com/paypal-tech/scaling-graphql-at-paypal-b5b5ac098810)
 
 ### Videos
 
