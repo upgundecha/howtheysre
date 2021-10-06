@@ -62,6 +62,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Alibaba Cloud</summary>
+
+### Blog Posts
+
+* [Why Are the Top Internet Companies Choosing SRE over Traditional O&M?](https://www.alibabacloud.com/blog/why-are-the-top-internet-companies-choosing-sre-over-traditional-o%26m_596099)
+
+</details>
+
+<details>
   <summary>Asana</summary>
 
 ### Blog Posts
