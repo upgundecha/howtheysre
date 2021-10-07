@@ -456,6 +456,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Why We Swear by the RCA](https://blog.gojekengineering.com/why-we-swear-by-the-rca-f535fd5abbcb)
+* [How We Upgrade Kubernetes on GKE](https://blog.gojek.io/how-we-upgrade-kubernetes-on-gke/)
+* [How We Monitor Apache Airflow in Production](https://blog.gojek.io/how-we-monitor-apache-airflow-in-production/)
 
 </details>
 
