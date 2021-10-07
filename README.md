@@ -1262,7 +1262,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * [Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
 * [_New!_ Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/) | [Read free online version hosted by Google](https://sre.google/resources/practices-and-processes/incident-metrics-in-sre/)
-
+* [Engineering Reliable Mobile Applications](https://www.oreilly.com/library/view/engineering-reliable-mobile/9781492057444/)
 ### Events
 
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
