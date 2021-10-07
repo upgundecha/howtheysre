@@ -1079,15 +1079,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-  <summary>Trivago</summary>
-
-### Blog Posts
-
-* [How To Get Fooled By Metrics](https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/)
-
-</details>
-
-<details>
   <summary>Tokopedia</summary>
 
 ### Blog Posts
@@ -1096,6 +1087,14 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Simulating Customized Chaos in Golang using Toxiproxy](https://medium.com/tokopedia-engineering/simulating-customized-chaos-in-golang-using-toxiproxy-b913584d88a7)
 * [How Tokopedia Rank Millions of Products in Search Page](https://medium.com/tokopedia-engineering/how-tokopedia-rank-millions-of-products-in-search-page-70e358ea2274)
 
+</details>
+
+<details>
+  <summary>Trivago</summary>
+
+### Blog Posts
+
+* [How To Get Fooled By Metrics](https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/)
 
 </details>
 
