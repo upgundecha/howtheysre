@@ -782,6 +782,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Ensuring High Availability of Ads Realtime Streaming Services](https://medium.com/pinterest-engineering/ensuring-high-availability-of-ads-realtime-streaming-services-ea3889420490)
 * [Improving efficiency and reducing runtime using S3 read optimization](https://medium.com/pinterest-engineering/improving-efficiency-and-reducing-runtime-using-s3-read-optimization-b31da4b60fa0)
 * [Scaling Kubernetes with Assurance at Pinterest](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)
 * [What we learned from an iOS app OOMs incident](https://medium.com/pinterest-engineering/what-we-learned-from-an-ios-app-ooms-incident-eb31eada251)
