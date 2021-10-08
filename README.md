@@ -225,6 +225,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>DAZN</summary>
+
+### Blog Posts
+
+* [Site Reliability at DAZN](https://medium.com/dazn-tech/site-reliability-at-dazn-a3ba4af0638d)
+  
+</details>
+
+<details>
   <summary>DBS</summary>
 
 ### Blog Posts
