@@ -510,6 +510,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Scaling SRE Organizations: The Journey from 1 to Many Teams](https://www.usenix.org/conference/srecon19americas/presentation/franco)
 * [SRE Classroom - How to Design a Distributed System in 3 Hours](https://www.usenix.org/conference/srecon19americas/presentation/thomas)
 * [Using PRDs and User Journeys to Design User-Friendly Tools](https://www.usenix.org/conference/srecon19americas/presentation/stockman)
+* [How Google SRE and Developers Work Together](https://www.youtube.com/watch?v=DOQqOrHs3VY)
 
 </details>
 
