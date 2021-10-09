@@ -539,6 +539,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Gusto</summary>
+
+### Blog Posts
+
+* [Service Level Objectives for On-call Peace of Mind](https://engineering.gusto.com/slos-for-peace-of-mind/)
+
+</details>
+
+<details>
   <summary>Halodoc</summary>
 
 ### Blog Posts
