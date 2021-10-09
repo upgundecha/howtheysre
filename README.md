@@ -225,6 +225,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>DAZN</summary>
+
+### Blog Posts
+
+* [Site Reliability at DAZN](https://medium.com/dazn-tech/site-reliability-at-dazn-a3ba4af0638d)
+  
+</details>
+
+<details>
   <summary>DBS</summary>
 
 ### Blog Posts
@@ -468,6 +477,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/articles/pitfalls-patterns-microservice-dependency-management/)
 * [SRE Practices & Processes](https://sre.google/resources/#practicesandprocesses)
+* [Google site reliability using Go](https://go.dev/solutions/google/sitereliability)
 * [Three months, 30x demand: How we scaled Google Meet during COVID-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
 * [SRE Classroom: Distributed PubSub](https://sre.google/resources/practices-and-processes/distributed-pubsub/)
 
