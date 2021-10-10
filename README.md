@@ -484,6 +484,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Google site reliability using Go](https://go.dev/solutions/google/sitereliability)
 * [Three months, 30x demand: How we scaled Google Meet during COVID-19](https://cloud.google.com/blog/products/g-suite/keeping-google-meet-ahead-of-usage-demand-during-covid-19)
 * [SRE Classroom: Distributed PubSub](https://sre.google/resources/practices-and-processes/distributed-pubsub/)
+* [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 
 ### Videos
 
