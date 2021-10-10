@@ -350,6 +350,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 <details>
   <summary>Facebook</summary>
 
+### Blog Posts
+
+* [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+
 ### Videos
 
 * [A Customer Service Approach to SRE](https://www.usenix.org/conference/srecon19emea/presentation/looney)
@@ -545,6 +549,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Service Level Objectives for On-call Peace of Mind](https://engineering.gusto.com/slos-for-peace-of-mind/)
+* [Debugging Sidekiq Poison Pills](https://engineering.gusto.com/debugging-sidekiq-poison-pills/)
 
 </details>
 
@@ -944,6 +949,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
 * [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 * [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
 * [Deploys at Slack](https://slack.engineering/deploys-at-slack/)
