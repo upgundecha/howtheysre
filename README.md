@@ -770,6 +770,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Application Resilience Engineering and Operations at Netflix with Hystrix](https://www.youtube.com/watch?v=RzlluokGi1w)
 * [Injecting Failure at Netflix](https://www.youtube.com/watch?v=ioXV28GtXeo)
 * [LISA13 - How Netflix Embraces Failure to Improve Resilience and Maximize Availability](https://www.youtube.com/watch?v=3D0zS3kPNUU)
+* [Incident Management at Netflix Velocity](https://www.infoq.com/presentations/netflix-incident-management/)
+
+### Podcasts
+* [Ryan Kitchens on Learning from Incidents at Netflix, the Role of SRE, and Sociotechnical Systems](https://www.infoq.com/podcasts/netflix-sre-sociotechnical-systems/)
 
 </details>
 
