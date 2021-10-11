@@ -774,6 +774,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Nubank</summary>
+
+  ### Blog Posts
+
+* [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
+
+</details>
+
+<details>
   <summary>PayPal</summary>
 
 ### Blog Posts
