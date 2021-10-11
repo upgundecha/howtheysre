@@ -779,6 +779,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   ### Blog Posts
 
 * [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
+* [How we do On-Call Rotations at Nubank](https://building.nubank.com.br/how-we-do-on-call-rotations-at-nubank/)
 
 </details>
 
