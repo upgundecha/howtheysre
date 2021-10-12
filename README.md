@@ -1235,6 +1235,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Zalando</summary>
+
+### Blog Posts
+
+* [Tracing SRE’s journey in Zalando - Part I](https://engineering.zalando.com/posts/2021/09/sre-journey-part1.html)
+* [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
+
+</details>
+
+<details>
   <summary>Zerodha</summary>
 
 ### Blog Posts
