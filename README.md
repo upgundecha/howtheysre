@@ -778,6 +778,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Nubank</summary>
+
+### Blog Posts
+
+* [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
+* [How we do On-Call Rotations at Nubank](https://building.nubank.com.br/how-we-do-on-call-rotations-at-nubank/)
+
+</details>
+
+<details>
   <summary>PayPal</summary>
 
 ### Blog Posts
@@ -1225,6 +1235,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Videos
 
 * [Yelp - What I Wish I Knew before Going On-Call](https://www.usenix.org/conference/srecon19emea/presentation/shu)
+
+</details>
+
+<details>
+  <summary>Zalando</summary>
+
+### Blog Posts
+
+* [Tracing SRE’s journey in Zalando - Part I](https://engineering.zalando.com/posts/2021/09/sre-journey-part1.html)
+* [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
 
 </details>
 
