@@ -773,6 +773,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Incident Management at Netflix Velocity](https://www.infoq.com/presentations/netflix-incident-management/)
 
 ### Podcasts
+
 * [Ryan Kitchens on Learning from Incidents at Netflix, the Role of SRE, and Sociotechnical Systems](https://www.infoq.com/podcasts/netflix-sre-sociotechnical-systems/)
 
 </details>
