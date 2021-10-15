@@ -402,6 +402,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 * [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
 * [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
 * [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
