@@ -780,6 +780,19 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>New Relic</summary>
+
+### Blog Posts
+
+* [Defining Modern Software Roles: SREs at New Relic](https://newrelic.com/blog/nerd-life/new-relic-sre)
+* [10 Things Everybody Needs to Know About Site Reliability Engineering (SRE)](https://newrelic.com/blog/best-practices/site-reliability-engineering-careers)
+* [What Tools Do Site Reliability Engineers Use?](https://newrelic.com/blog/best-practices/best-sre-tools)
+* [A Day in the Life of a New Relic SRE](https://newrelic.com/blog/nerd-life/what-does-an-sre-do)
+* [7 Habits of Highly Successful Site Reliability Engineers](https://newrelic.com/blog/best-practices/site-reliability-engineer-sre-habits)
+
+</details>
+
+<details>
   <summary>Nubank</summary>
 
 ### Blog Posts
