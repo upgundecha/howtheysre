@@ -641,6 +641,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Code-Yellow: Helping Operations Top-Heavy Teams the Smart Way](https://www.usenix.org/conference/srecon19americas/presentation/kehoe)
 * [Differences in SRE Implementations across Companies](https://www.usenix.org/conference/srecon19americas/presentation/andersen)
 
+### Open Source Tools
+
+* [On-Call](https://github.com/linkedin/oncall)
+
 </details>
 
 <details>
@@ -776,6 +780,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Podcasts
 
 * [Ryan Kitchens on Learning from Incidents at Netflix, the Role of SRE, and Sociotechnical Systems](https://www.infoq.com/podcasts/netflix-sre-sociotechnical-systems/)
+
+### Open Source Tools
+
+* [Dispatch](https://github.com/Netflix/dispatch)
 
 </details>
 
