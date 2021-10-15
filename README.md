@@ -641,6 +641,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Code-Yellow: Helping Operations Top-Heavy Teams the Smart Way](https://www.usenix.org/conference/srecon19americas/presentation/kehoe)
 * [Differences in SRE Implementations across Companies](https://www.usenix.org/conference/srecon19americas/presentation/andersen)
 
+### Open Source Tools
+
+* [On-Call](https://github.com/linkedin/oncall)
+
 </details>
 
 <details>
@@ -776,6 +780,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Podcasts
 
 * [Ryan Kitchens on Learning from Incidents at Netflix, the Role of SRE, and Sociotechnical Systems](https://www.infoq.com/podcasts/netflix-sre-sociotechnical-systems/)
+
+### Open Source Tools
+
+* [Dispatch](https://github.com/Netflix/dispatch)
 
 </details>
 
@@ -1349,6 +1357,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
+
+#### Incidents & postmortem repositories
+
+* [The Verica Open Incident Database](https://www.thevoid.community/)
+* [Postmortem.io](https://postmortem.io/)
 
 #### Newsletters
 
