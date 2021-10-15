@@ -1358,6 +1358,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 
+#### Incidents & postmortem repositories
+
+* [The Verica Open Incident Database](https://www.thevoid.community/)
+* [Postmortem.io](https://postmortem.io/)
+
 #### Newsletters
 
 * [SRE Weekly Newsletter](https://sreweekly.com/)
