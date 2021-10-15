@@ -1339,8 +1339,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Database Reliability Engineering: What, Why, and How?](https://www.oreilly.com/library/view/database-reliability-engineering/9781492030942/)
 * [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 * [Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
-* [_New!_ Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/) | [Read free online version hosted by Google](https://sre.google/resources/practices-and-processes/incident-metrics-in-sre/)
+* [Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/) | [Read free online version hosted by Google](https://sre.google/resources/practices-and-processes/incident-metrics-in-sre/)
 * [Engineering Reliable Mobile Applications](https://www.oreilly.com/library/view/engineering-reliable-mobile/9781492057444/)
+* [_New!_ Monitoring the SRE Golden Signals](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook)
 * [_New!_ Site Reliability Engineering: Philosophies, habits, and tools for SRE success](https://newrelic.com/resources/ebooks/site-reliability-engineering) | [Portable version](https://newrelic.com/sites/default/files/2021-08/site-reliability-engineering-handbook.pdf)
 
 ### Events
