@@ -792,6 +792,19 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>New Relic</summary>
+
+### Blog Posts
+
+* [Defining Modern Software Roles: SREs at New Relic](https://newrelic.com/blog/nerd-life/new-relic-sre)
+* [10 Things Everybody Needs to Know About Site Reliability Engineering (SRE)](https://newrelic.com/blog/best-practices/site-reliability-engineering-careers)
+* [What Tools Do Site Reliability Engineers Use?](https://newrelic.com/blog/best-practices/best-sre-tools)
+* [A Day in the Life of a New Relic SRE](https://newrelic.com/blog/nerd-life/what-does-an-sre-do)
+* [7 Habits of Highly Successful Site Reliability Engineers](https://newrelic.com/blog/best-practices/site-reliability-engineer-sre-habits)
+
+</details>
+
+<details>
   <summary>Nubank</summary>
 
 ### Blog Posts
@@ -1328,6 +1341,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Chaos Engineering: Site reliability through controlled disruption](https://www.manning.com/books/chaos-engineering)
 * [_New!_ Incident Metrics in SRE](https://www.oreilly.com/library/view/incident-metrics-in/9781098103163/) | [Read free online version hosted by Google](https://sre.google/resources/practices-and-processes/incident-metrics-in-sre/)
 * [Engineering Reliable Mobile Applications](https://www.oreilly.com/library/view/engineering-reliable-mobile/9781492057444/)
+* [_New!_ Site Reliability Engineering: Philosophies, habits, and tools for SRE success](https://newrelic.com/resources/ebooks/site-reliability-engineering) | [Portable version](https://newrelic.com/sites/default/files/2021-08/site-reliability-engineering-handbook.pdf)
 
 ### Events
 
