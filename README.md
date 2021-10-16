@@ -311,7 +311,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Video
 
-* [ AWS re:Invent 2018: Epic Games Uses AWS to Deliver Fortnite to 200 Million Players](https://youtu.be/MCLrA401vHw)
+* [AWS re:Invent 2018: Epic Games Uses AWS to Deliver Fortnite to 200 Million Players](https://youtu.be/MCLrA401vHw)
 
 </details>
 
