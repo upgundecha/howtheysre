@@ -1052,6 +1052,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Matt Clarke: Senior Backend Infrastructure Engineer](https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/)
 * [Designing a Better Kubernetes Experience for Developers](https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/)
 * [Techbytes: What The Industry Misses About Incidents and What You Can Do](https://engineering.atspotify.com/2020/02/26/techbytes-what-the-industry-misses-about-incidents-and-what-you-can-do/)
 * [Automated Incident Response Infrastructure in GCP](https://engineering.atspotify.com/2019/04/04/whacking-a-million-moles-automated-incident-response-infrastructure-in-gcp/)
