@@ -1336,7 +1336,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
 * [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
-* [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
+* [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
 * [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
 * [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/)
@@ -1353,6 +1353,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Engineering Reliable Mobile Applications](https://www.oreilly.com/library/view/engineering-reliable-mobile/9781492057444/)
 * [_New!_ Monitoring the SRE Golden Signals](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook)
 * [_New!_ Site Reliability Engineering: Philosophies, habits, and tools for SRE success](https://newrelic.com/resources/ebooks/site-reliability-engineering) | [Portable version](https://newrelic.com/sites/default/files/2021-08/site-reliability-engineering-handbook.pdf)
+* [_New!_ 97 Things Every Cloud Engineer Should Know](https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf)
 
 ### Events
 
@@ -1387,17 +1388,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 
-#### Incidents & postmortem repositories
+#### Incidents & postmortems
 
 * [The Verica Open Incident Database](https://www.thevoid.community/)
 * [Postmortem.io](https://postmortem.io/)
+* [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
+* [Incident Review and Postmortem Best Practices](https://blog.pragmaticengineer.com/postmortem-best-practices/)
 
 #### Newsletters
 
 * [SRE Weekly Newsletter](https://sreweekly.com/)
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
-* [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 
 ## Credits
 
