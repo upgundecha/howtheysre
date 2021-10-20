@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml)
 
-![Alt](banner.png "banner")
+![How they SRE](headline.png)
 
 > A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
