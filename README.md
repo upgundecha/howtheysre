@@ -1294,6 +1294,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 </details>
 
+<details>
+  <summary>Zomato</summary>
+
+### Blog Posts
+
+* [Huddle Diaries – DevOps and Data Platform](https://www.zomato.com/blog/huddle-diaries-devops-and-data-platform)
+
+</details>
+
 ## SRECon Mix Playlist
 
 ### Videos
