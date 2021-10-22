@@ -680,6 +680,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Meituan (美团)</summary>
+  
+### Blog Posts
+
+* [The development and practice of SRE in the cloud (云端的SRE发展与实践) ](https://tech.meituan.com/2017/08/03/meituanyun-sre.html)
+  
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 ### Blog Posts
@@ -1282,7 +1291,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Tracing SRE’s journey in Zalando - Part I](https://engineering.zalando.com/posts/2021/09/sre-journey-part1.html)
 * [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
-
+* [Tracing SRE’s journey in Zalando - Part III](https://engineering.zalando.com/posts/2021/10/sre-journey-part3.html)
 </details>
 
 <details>
