@@ -224,7 +224,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud](https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
 * [Open Sourcing Coinbase’s Secure Deployment Pipeline](https://blog.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517)
   
-
 </details>
 
 <details>
@@ -234,7 +233,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Site Reliability at DAZN](https://medium.com/dazn-tech/site-reliability-at-dazn-a3ba4af0638d)
   
-
 </details>
 
 <details>
