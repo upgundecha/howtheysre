@@ -125,6 +125,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Anomaly Detection on Golden Signals](https://www.usenix.org/conference/srecon19asia/presentation/chen-yu)
 * [NetRadar: Monitoring the Datacenter Network](https://www.usenix.org/conference/srecon19asia/presentation/chen-yun)
+* [Let the Chaos Begin—SRE Chaos Engineering Meets Cybersecurity](https://www.youtube.com/watch?v=x3c0PPkSf14)
 
 </details>
 
