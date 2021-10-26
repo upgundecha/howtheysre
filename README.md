@@ -680,6 +680,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Mattermost</summary>
+
+### Blog Posts
+
+* [Monitoring Cloud Environments at Scale with Prometheus and Thanos](https://mattermost.com/blog/monitoring-cloud-environments-at-scale-with-prometheus-and-thanos/)
+* [How We Use Sloth to do SLO Monitoring and Alerting with Prometheus](https://mattermost.com/blog/sloth-for-slo-monitoring-and-alerting-with-prometheus/)
+
+</details>
+
+<details>
   <summary>Meituan (美团)</summary>
 
 ### Blog Posts
