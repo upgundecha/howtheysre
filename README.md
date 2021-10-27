@@ -585,15 +585,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
-  <summary>IBM</summary>
-
-### Blog Posts
-
-* [Three Differences Between DevOps and SRE](https://www.ibm.com/cloud/blog/three-differences-between-devops-and-sre)
-
-</details>
-
-<details>
   <summary>Indeed</summary>
 
 ### Blog Posts
