@@ -476,6 +476,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GoDaddy</summary>
+  
+### Blog Posts
+    
+* [Kubernetes Gated Deployments](https://www.godaddy.com/engineering/2019/08/13/kubernetes-gated-deployments/)  
+* [Kubernetes External Secrets](https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/)  
+* [require-suffix - Testing Without Custom Loaders](https://www.godaddy.com/engineering/2018/12/14/require-suffix/)  
+* [Move over Selenium - UI Testing with Cypress](https://www.godaddy.com/engineering/2018/11/06/cypress-vs-selenium/)  
+* [React Native Application UI testing using WebDriverIO and Appium](https://www.godaddy.com/engineering/2018/07/09/react-native-wdio/)  
+* [A build monitoring plugin for Jenkins](https://www.godaddy.com/engineering/2018/06/19/jenkins-build-monitoring-plugin/)  
+* [Jenkins Best Practices - Practical Continuous Deployment in the Real World](https://www.godaddy.com/engineering/2018/06/05/cicd-best-practices/)  
+* [UI Testing: moving from WebdriverIO and Selenium to Puppeteer](https://www.godaddy.com/engineering/2018/05/07/moving-from-webdriver-to-puppeteer/)  
+* [Kubernetes - A Practical Introduction for Application Developers](https://www.godaddy.com/engineering/2018/05/02/kubernetes-introduction-for-developers/)  
+* [An Intuitive Node.js Client for the Kubernetes API](https://www.godaddy.com/engineering/2018/04/10/an-intuitive-nodejs-client-for-the-kubernetes-api/)
+
+</details>
+
+<details>
   <summary>Gojek</summary>
 
 ### Blog Posts
