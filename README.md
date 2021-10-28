@@ -476,6 +476,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GoDaddy</summary>
+
+### Blog Posts
+
+* [Kubernetes Gated Deployments](https://www.godaddy.com/engineering/2019/08/13/kubernetes-gated-deployments/)
+* [Kubernetes External Secrets](https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/)
+* [Kubernetes - A Practical Introduction for Application Developers](https://www.godaddy.com/engineering/2018/05/02/kubernetes-introduction-for-developers/)
+* [An Intuitive Node.js Client for the Kubernetes API](https://www.godaddy.com/engineering/2018/04/10/an-intuitive-nodejs-client-for-the-kubernetes-api/)
+
+</details>
+
+<details>
   <summary>Gojek</summary>
 
 ### Blog Posts
