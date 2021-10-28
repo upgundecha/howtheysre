@@ -477,7 +477,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 <details>
   <summary>GoDaddy</summary>
-  
+
 ### Blog Posts
 
 * [Kubernetes Gated Deployments](https://www.godaddy.com/engineering/2019/08/13/kubernetes-gated-deployments/)  
