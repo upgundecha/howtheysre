@@ -540,6 +540,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [SRE Classroom - How to Design a Distributed System in 3 Hours](https://www.usenix.org/conference/srecon19americas/presentation/thomas)
 * [Using PRDs and User Journeys to Design User-Friendly Tools](https://www.usenix.org/conference/srecon19americas/presentation/stockman)
 * [How Google SRE and Developers Work Together](https://www.youtube.com/watch?v=DOQqOrHs3VY)
+* [SREcon21 - Experiments for SRE](https://www.youtube.com/watch?v=yjusNjAFxFg)
 
 </details>
 
