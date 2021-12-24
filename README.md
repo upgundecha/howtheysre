@@ -1382,7 +1382,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
 * [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
-* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
+* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/) | [Read free online version hosted by Google](https://sre.google/static/pdf/slo-adoption-and-usage-in-sre.pdf)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
 * [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/)
 * [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/)
