@@ -67,6 +67,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Why Are the Top Internet Companies Choosing SRE over Traditional O&M?](https://www.alibabacloud.com/blog/why-are-the-top-internet-companies-choosing-sre-over-traditional-o%26m_596099)
+* [Architecture and Practices of Bilibili's Real-time Platform](https://www.alibabacloud.com/blog/architecture-and-practices-of-bilibilis-real-time-platform_596676)
 
 </details>
 
@@ -125,6 +126,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Anomaly Detection on Golden Signals](https://www.usenix.org/conference/srecon19asia/presentation/chen-yu)
 * [NetRadar: Monitoring the Datacenter Network](https://www.usenix.org/conference/srecon19asia/presentation/chen-yun)
+* [Let the Chaos Begin—SRE Chaos Engineering Meets Cybersecurity](https://www.youtube.com/watch?v=x3c0PPkSf14)
 
 </details>
 
@@ -474,6 +476,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GoDaddy</summary>
+
+### Blog Posts
+
+* [Kubernetes Gated Deployments](https://www.godaddy.com/engineering/2019/08/13/kubernetes-gated-deployments/)
+* [Kubernetes External Secrets](https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/)
+* [Kubernetes - A Practical Introduction for Application Developers](https://www.godaddy.com/engineering/2018/05/02/kubernetes-introduction-for-developers/)
+* [An Intuitive Node.js Client for the Kubernetes API](https://www.godaddy.com/engineering/2018/04/10/an-intuitive-nodejs-client-for-the-kubernetes-api/)
+
+</details>
+
+<details>
   <summary>Gojek</summary>
 
 ### Blog Posts
@@ -526,6 +540,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [SRE Classroom - How to Design a Distributed System in 3 Hours](https://www.usenix.org/conference/srecon19americas/presentation/thomas)
 * [Using PRDs and User Journeys to Design User-Friendly Tools](https://www.usenix.org/conference/srecon19americas/presentation/stockman)
 * [How Google SRE and Developers Work Together](https://www.youtube.com/watch?v=DOQqOrHs3VY)
+* [SREcon21 - Experiments for SRE](https://www.youtube.com/watch?v=yjusNjAFxFg)
 
 </details>
 
@@ -660,7 +675,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   <summary>Loggi</summary>
 
 ### Blog Posts
-  
+
 * [The Release Manager model](https://partiu.loggi.com/the-release-manager-model-7af93f9f499f)
 * [SRE Teams #8: Loggi](https://sreteams.substack.com/p/loggi)
 
@@ -676,6 +691,25 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [DevOps and Segregation of Duties](https://medium.com/macquarie-engineering-blog/devops-and-segregation-of-duties-ea4a7dcc7217)
 * [Macquarie embraces DevOps](https://medium.com/macquarie-engineering-blog/macquarie-embraces-devops-30f0fe62496a)
 * [Scaling a Kubernetes Platform across the Enterprise](https://medium.com/macquarie-engineering-blog/scaling-a-kubernetes-platform-across-the-enterprise-c07a53b6022e)
+
+</details>
+
+<details>
+  <summary>Mattermost</summary>
+
+### Blog Posts
+
+* [Monitoring Cloud Environments at Scale with Prometheus and Thanos](https://mattermost.com/blog/monitoring-cloud-environments-at-scale-with-prometheus-and-thanos/)
+* [How We Use Sloth to do SLO Monitoring and Alerting with Prometheus](https://mattermost.com/blog/sloth-for-slo-monitoring-and-alerting-with-prometheus/)
+
+</details>
+
+<details>
+  <summary>Meituan (美团)</summary>
+
+### Blog Posts
+
+* [The development and practice of SRE in the cloud (云端的SRE发展与实践)](https://tech.meituan.com/2017/08/03/meituanyun-sre.html)
 
 </details>
 
@@ -1089,6 +1123,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/)
 * [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 * [Guest Post - Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
+* [How We Built Our Blog](https://stackoverflow.blog/2015/07/02/how-we-built-our-blog/)
 
 ### Videos
 
@@ -1292,6 +1327,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [Tracing SRE’s journey in Zalando - Part I](https://engineering.zalando.com/posts/2021/09/sre-journey-part1.html)
 * [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
+* [Tracing SRE’s journey in Zalando - Part III](https://engineering.zalando.com/posts/2021/10/sre-journey-part3.html)
 
 </details>
 
@@ -1301,6 +1337,15 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Infrastructure monitoring with Prometheus at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
+
+</details>
+
+<details>
+  <summary>Zomato</summary>
+
+### Blog Posts
+
+* [Huddle Diaries – DevOps and Data Platform](https://www.zomato.com/blog/huddle-diaries-devops-and-data-platform)
 
 </details>
 
@@ -1347,7 +1392,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
 * [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
-* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
+* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/) | [Read free online version hosted by Google](https://sre.google/static/pdf/slo-adoption-and-usage-in-sre.pdf)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
 * [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/)
 * [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/)
