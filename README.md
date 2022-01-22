@@ -401,6 +401,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [MySQL High Availability at GitHub](https://github.blog/2018-06-20-mysql-high-availability-at-github/)
 
 ### Major incidents & analysis reports
+
 * [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
 * [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
 * [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
@@ -721,6 +722,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   <summary>Meta</summary>
 
 ### Blog Posts
+
 * [SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
 * [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
 * [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
