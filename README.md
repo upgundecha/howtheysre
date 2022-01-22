@@ -1252,6 +1252,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Udemy</summary>
+
+### Blog Posts
+
+* [Blameless Incident Reviews at Udemy](https://medium.com/udemy-engineering/blameless-incident-reviews-at-udemy-aa4773dbaf0b)
+* [How Udemy does Build Engineering](https://medium.com/udemy-engineering/how-udemy-does-build-engineering-9722e98a4208)
+
+</details>
+
+<details>
   <summary>upGrad</summary>
 
 ### Blog Posts
