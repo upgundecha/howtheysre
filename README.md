@@ -232,7 +232,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Site Reliability at DAZN](https://medium.com/dazn-tech/site-reliability-at-dazn-a3ba4af0638d)
-  
+
 </details>
 
 <details>
@@ -267,6 +267,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Deployment At Scale: Story Behind Dream11’s In-House Blue-Green Deployment Platform ‘OneClick’.](https://blog.dream11engineering.com/deployment-at-scale-story-behind-dream11s-in-house-blue-green-deployment-platform-oneclick-b2c761b12896)
+* [Enhancing security and trust with AWS WAFv2](https://blog.dream11engineering.com/enhancing-security-and-trust-with-aws-wafv2-8b050b1cba37)
 * [Lessons learned from running GraphQL at scale](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [Break circuits, save Kong 🦍](https://blog.dream11engineering.com/break-circuits-save-kong-3680d88a0639)
 * [Finding Order in Chaos: How We Automated Performance Testing with Torque](https://blog.dream11engineering.com/finding-order-in-chaos-how-we-automated-performance-testing-with-torque-6eb63706fcea)
@@ -343,6 +345,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Automating Performance Standards](https://medium.com/expedia-group-tech/automating-performance-standards-b51efc92d237)
 * [Using Fault-Injection to Improve our new Runtime Platform’s Reliability](https://medium.com/expedia-group-tech/using-fault-injection-to-improve-our-new-platforms-reliability-656b1147b132)
 * [Learning from Incidents at Expedia Group](https://medium.com/expedia-group-tech/learning-from-incidents-at-expedia-group-51a8c72a4286)
 * [Improving Vrbo Homepage Loading Experience](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
@@ -355,22 +358,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [The Cost of 100% Reliability](https://medium.com/expedia-group-tech/the-cost-of-100-reliability-ecb2901f23a4)
 * [Creating Monitoring Dashboards](https://medium.com/expedia-group-tech/creating-monitoring-dashboards-1f3fbe0ae1ac)
 * [Using Bash for DevOps](https://medium.com/expedia-group-tech/using-bash-for-devops-7046eed1aa63)
-
-</details>
-
-<details>
-  <summary>Facebook</summary>
-
-### Blog Posts
-
-* [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
-
-### Videos
-
-* [A Customer Service Approach to SRE](https://www.usenix.org/conference/srecon19emea/presentation/looney)
-* [How (Not) to Scale a Project: A Post-Mortem](https://www.usenix.org/conference/srecon19asia/presentation/bagnoli)
-* [Releasing the World's Largest Python Site Every 7 Minutes](https://www.usenix.org/conference/srecon19asia/presentation/wong-shuhong)
-* [Using ML to Automate Dynamic Error Categorization](https://www.usenix.org/conference/srecon19asia/presentation/davoli)
 
 </details>
 
@@ -399,6 +386,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
+
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
 * [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
@@ -413,6 +402,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
+* [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
+* [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
 * [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 * [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
 * [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
@@ -565,6 +557,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Scaling AWS Infrastructure to Support Multiple Regions](https://www.grammarly.com/blog/engineering/scaling-aws-infrastructure/)
 * [Security Operations in an AWS Environment](https://www.grammarly.com/blog/engineering/security-infrastructure-aws/)
 
 </details>
@@ -593,6 +586,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [The Adventures of Rendezvous in Heroku’s New Architecture](https://blog.heroku.com/engineering)
 * [Incident Response at Heroku](https://blog.heroku.com/incident-response-at-heroku-2020)
 
 </details>
@@ -721,6 +715,24 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [DevSecOps: What Is It and Why Is It Gaining Momentum in the Industry?](https://engineering.mercari.com/en/blog/entry/20201214-devsecops-what-is-it-and-why-is-it-gaining-momentum-in-the-industry/)
 * [How do we share troubleshooting skills](https://engineering.mercari.com/en/blog/entry/2020-01-28-143339/)
 * [Datadog Dashboard at Scale w / Terraform](https://engineering.mercari.com/en/blog/entry/2019-12-09-122134/)
+
+</details>
+
+<details>
+  <summary>Meta</summary>
+
+### Blog Posts
+
+* [SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
+* [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+* [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
+
+### Videos
+
+* [A Customer Service Approach to SRE](https://www.usenix.org/conference/srecon19emea/presentation/looney)
+* [How (Not) to Scale a Project: A Post-Mortem](https://www.usenix.org/conference/srecon19asia/presentation/bagnoli)
+* [Releasing the World's Largest Python Site Every 7 Minutes](https://www.usenix.org/conference/srecon19asia/presentation/wong-shuhong)
+* [Using ML to Automate Dynamic Error Categorization](https://www.usenix.org/conference/srecon19asia/presentation/davoli)
 
 </details>
 
