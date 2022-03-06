@@ -1399,6 +1399,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Books
 
+* [__New!__ Enterprise Roadmap to SRE](https://learning.oreilly.com/library/view/enterprise-roadmap-to/9781098117740/)
 * [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
 * [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
