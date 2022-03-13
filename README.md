@@ -692,6 +692,19 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Loveholidays</summary>
+
+### Blog Posts
+
+* [Dynamic alert routing with Prometheus and Alertmanager](https://tech.loveholidays.com/dynamic-alert-routing-with-prometheus-and-alertmanager-f6a919edb5f8)
+* [Making loveholidays 18% faster with HTTP/3](https://tech.loveholidays.com/making-loveholidays-18-faster-with-http-3-1860879528a7)
+* [Enforcing best practice on self-serve infrastructure with Terraform, Atlantis and Policy As Code](https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00)
+* [The 5 principles that helped scale loveholidays](https://tech.loveholidays.com/the-5-principles-that-helped-scale-loveholidays-7ea0b0fd3df9)
+* [Realtime Fastly logs with Grafana Loki for under $1 a day](https://tech.loveholidays.com/realtime-fastly-logs-with-grafana-loki-for-under-1-a-day-5b63ccf32d66)
+
+</details>
+
+<details>
   <summary>Macquarie</summary>
 
 ### Blog Posts
