@@ -504,7 +504,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Announcing CatchIT - Source Code Secret Scanner](https://developer.gs.com/blog/posts/catchit-source-code-secret-scanner)
 * [Building Platforms for Data Engineering](https://developer.gs.com/blog/posts/legend_data_engineering_platforms)
 
-
 </details>
 
 <details>
