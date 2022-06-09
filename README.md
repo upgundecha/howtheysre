@@ -1077,6 +1077,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
 * [Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
 * [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 * [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
@@ -1282,6 +1283,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Founding Uber SRE](https://lethain.com/founding-uber-sre/)
 * [Disaster Recovery for Multi-Region Kafka at Uber](https://eng.uber.com/kafka/)
 * [Engineering Failover Handling in Uber’s Mobile Networking Infrastructure](https://eng.uber.com/eng-failover-handling/)
 * [Optimizing Observability with Jaeger, M3, and XYS at Uber](https://eng.uber.com/optimizing-observability/)
