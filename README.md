@@ -350,6 +350,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Automating Performance Standards](https://medium.com/expedia-group-tech/automating-performance-standards-b51efc92d237)
+* [Error Budget Policy - Part 1 - Adoption at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policy-adoption-at-expedia-group-7d80d41c4a8b)
+* [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
 * [Using Fault-Injection to Improve our new Runtime Platform’s Reliability](https://medium.com/expedia-group-tech/using-fault-injection-to-improve-our-new-platforms-reliability-656b1147b132)
 * [Learning from Incidents at Expedia Group](https://medium.com/expedia-group-tech/learning-from-incidents-at-expedia-group-51a8c72a4286)
 * [Improving Vrbo Homepage Loading Experience](https://medium.com/expedia-group-tech/improving-vrbo-homepage-loading-experience-e4b2207535f4)
