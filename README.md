@@ -46,6 +46,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Automated Incident Management Through Slack](https://medium.com/airbnb-engineering/incident-management-ae863dc5d47f)
 * [Detecting Vulnerabilities With Vulnture](https://medium.com/airbnb-engineering/detecting-vulnerabilities-with-vulnture-f5f23387f6ec)
 * [Alerting Framework at Airbnb](https://medium.com/airbnb-engineering/alerting-framework-at-airbnb-35ba48df894f)
 * [When The Cloud Gets Dark — How Amazon’s Outage Affected Airbnb](https://medium.com/airbnb-engineering/when-the-cloud-gets-dark-how-amazons-outage-affected-airbnb-66eaf8c0f162)
@@ -613,6 +614,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Indeed SRE: An Inside Look](https://engineering.indeedblog.com/blog/2022/04/sre/)
 * [Being Just Reliable Enough](https://engineering.indeedblog.com/blog/2019/10/being-just-reliable-enough/)
 * [Automating Indeed’s Release Process](https://engineering.indeedblog.com/blog/2017/03/automating-release-process/)
 * [Sloth, a Tool for Inducing Network Failures’ with Preetha Appan of Indeed.com](https://www.usenix.org/conference/srecon17americas/program/presentation/appan)
@@ -742,6 +744,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Who Watches the Watchmen? Keeping an Eye on Our Monitoring Systems](https://engineering.mercari.com/en/blog/entry/20220805-who-watches-the-watchmen-keeping-an-eye-on-our-monitoring-systems/)
+* [What the Microservices SRE Team are doing as SRE Evangelists](https://engineering.mercari.com/en/blog/entry/20220225-cdb2b6deff/)
+* [What it’s like to work as an embedded microservices SRE](https://engineering.mercari.com/en/blog/entry/20220228-work-as-an-embedded-microservices-sre/)
+* [The Merpay SRE Team: Past and future](https://engineering.mercari.com/en/blog/entry/20210831-a91c3dca9d/)
+* [Embedded SRE at Mercari](https://engineering.mercari.com/en/blog/entry/20220221-embedded-sre-at-mercari/)
+* [What the SRE team wants to achieve with the development team](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
 * [DevSecOps: What Is It and Why Is It Gaining Momentum in the Industry?](https://engineering.mercari.com/en/blog/entry/20201214-devsecops-what-is-it-and-why-is-it-gaining-momentum-in-the-industry/)
 * [How do we share troubleshooting skills](https://engineering.mercari.com/en/blog/entry/2020-01-28-143339/)
 * [Datadog Dashboard at Scale w / Terraform](https://engineering.mercari.com/en/blog/entry/2019-12-09-122134/)
