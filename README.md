@@ -485,6 +485,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Introducing Skynet: Infrastructure as Code for Gojek](https://www.gojek.io/blog/introducing-skynet/)
+* [Scaling Our Geo-Search Service For 10x Load](https://www.gojek.io/blog/scaling-our-geo-search-service-for-10x-load/)
 * [Why We Swear by the RCA](https://www.gojek.io/blog/why-we-swear-by-the-rca)
 * [How We Upgrade Kubernetes on GKE](https://blog.gojek.io/how-we-upgrade-kubernetes-on-gke/)
 * [How We Monitor Apache Airflow in Production](https://blog.gojek.io/how-we-monitor-apache-airflow-in-production/)
