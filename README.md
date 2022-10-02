@@ -612,7 +612,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [What is Site Reliability Engineering (SRE)?](https://www.ibm.com/cloud/learn/site-reliability-engineering)
-*[AIOps tools and solutions](https://www.ibm.com/cloud/aiops)
+* [AIOps tools and solutions](https://www.ibm.com/cloud/aiops)
 </details>
 
 <details>
