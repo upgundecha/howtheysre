@@ -1438,7 +1438,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
 * [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
-* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/)
+* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://github.com/google/googlesre/blob/main/publications/Training_Site_Reliability_Engineers.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
 * [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
@@ -1491,6 +1491,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
+* [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 #### Incidents & postmortems
 
