@@ -857,6 +857,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Announcing Security Monkey — AWS Security Configuration Monitoring and Analysis](https://netflixtechblog.com/announcing-security-monkey-aws-security-configuration-monitoring-and-analysis-1f2bfb001708)
 * [Lessons Netflix Learned from the AWS Outage](https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04)
 * [Scryer: Netflix’s Predictive Auto Scaling Engine](https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
+* [Creating Media with Machine Learning](https://netflixtechblog.medium.com/new-series-creating-media-with-machine-learning-5067ac110bcd)
 
 ### Major incidents & analysis reports
 
