@@ -856,6 +856,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [FIT: Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
 * [Announcing Security Monkey — AWS Security Configuration Monitoring and Analysis](https://netflixtechblog.com/announcing-security-monkey-aws-security-configuration-monitoring-and-analysis-1f2bfb001708)
 * [Lessons Netflix Learned from the AWS Outage](https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04)
+* [Scryer: Netflix’s Predictive Auto Scaling Engine](https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
 
 ### Major incidents & analysis reports
 
