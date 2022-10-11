@@ -1,0 +1,49 @@
+body{
+    background-color: greenyellow;
+}
+h1{
+    color: rgb(242, 79, 50);
+    position: relative;
+    animation: mymove 5s ;
+    animation-duration: 5s;
+    animation-iteration-count: 2;
+    font-size: 100px;
+    font-weight: bolder;
+}
+@keyframes mymove{
+    from{left: -50px;}
+    to{left: 200px;}
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+table{
+    margin: auto;
+}
+button{
+    font-size: 24px;
+    background-color: greenyellow;
+    width: 70px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    width:90px;
+    color: red;
+    background-color: cyan;
+}
+input{
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 290px;
+    height: 40px;
+    font-size: 20px;
+}
+.calculator{
+    padding: 23px;
+    border-radius: 53px;
+    background-color: rgb(65, 65, 233);
+    display: inline-block;
+}
