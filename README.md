@@ -75,6 +75,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>APNIC</summary>
+
+### Blog Posts
+
+* [The Future of Automated Incident Response](https://blog.apnic.net/2022/08/12/the-future-of-automated-incident-response/)
+* [DNSSEC Validation: Performance Killer?](https://blog.apnic.net/2022/08/22/dnssec-validation-performance-killer/)
+
+</details>
+
+<details>
   <summary>Asana</summary>
 
 ### Blog Posts
