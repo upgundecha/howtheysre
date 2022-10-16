@@ -243,6 +243,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Presenting at iThome’s SRE Conference: Our DBS SRE Transformation Journey Thus Far](https://medium.com/dbs-tech-blog/presenting-at-ithomes-sre-conference-our-dbs-sre-transformation-journey-thus-far-9b6778ce53e8)
 * [Debunking the seven most popular Site Reliability Engineering myths](https://medium.com/dbs-tech-blog/debunking-the-seven-most-popular-site-reliability-engineering-myths-a3be8d870ff2)
 * [How To Use SRE To Cultivate A Blameless Culture In The Workplace](https://medium.com/dbs-tech-blog/how-to-use-sre-to-cultivate-a-blameless-culture-in-the-workplace-1981fd1c7871)
 * [Site Reliability Engineering at DBS Bank](https://medium.com/dbs-tech-blog/site-reliability-engineering-at-dbs-bank-32c02228ccf4)
