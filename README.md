@@ -219,12 +219,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [A Deep Dive into the Recent BCH Hard Fork Incident](https://blog.coinbase.com/a-deep-dive-into-the-recent-bch-hard-fork-incident-2ee14132f435)
-* [Blockchain Infrastructure at Coinbase](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
-* [Logs, metrics, and the evolution of observability at Coinbase](https://blog.coinbase.com/logs-metrics-and-the-evolution-of-observability-at-coinbase-13196b15edb7)
-* [Reliability Engineering at Coinbase](https://blog.coinbase.com/reliability-engineering-at-coinbase-8b6956ba802f)
-* [Introducing Salus: How Coinbase scales security automation](https://blog.coinbase.com/introducing-salus-how-coinbase-scales-security-automation-1ba5e8074937)
-* [How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud](https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
 * [Open Sourcing Coinbase’s Secure Deployment Pipeline](https://blog.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517)
   
 </details>
@@ -492,6 +486,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Introducing Skynet: Infrastructure as Code for Gojek](https://www.gojek.io/blog/introducing-skynet/)
+* [Scaling Our Geo-Search Service For 10x Load](https://www.gojek.io/blog/scaling-our-geo-search-service-for-10x-load/)
 * [Why We Swear by the RCA](https://www.gojek.io/blog/why-we-swear-by-the-rca)
 * [How We Upgrade Kubernetes on GKE](https://blog.gojek.io/how-we-upgrade-kubernetes-on-gke/)
 * [How We Monitor Apache Airflow in Production](https://blog.gojek.io/how-we-monitor-apache-airflow-in-production/)
@@ -610,6 +606,16 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [The Adventures of Rendezvous in Heroku’s New Architecture](https://blog.heroku.com/engineering)
 * [Incident Response at Heroku](https://blog.heroku.com/incident-response-at-heroku-2020)
+
+</details>
+
+<details>
+  <summary>IBM</summary>
+
+### Blog Posts
+
+* [What is Site Reliability Engineering (SRE)?](https://www.ibm.com/cloud/learn/site-reliability-engineering)
+* [AIOps tools and solutions](https://www.ibm.com/cloud/aiops)
 
 </details>
 
@@ -851,6 +857,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [FIT: Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
 * [Announcing Security Monkey — AWS Security Configuration Monitoring and Analysis](https://netflixtechblog.com/announcing-security-monkey-aws-security-configuration-monitoring-and-analysis-1f2bfb001708)
 * [Lessons Netflix Learned from the AWS Outage](https://netflixtechblog.com/lessons-netflix-learned-from-the-aws-outage-deefe5fd0c04)
+* [Scryer: Netflix’s Predictive Auto Scaling Engine](https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
 
 ### Major incidents & analysis reports
 
@@ -1220,9 +1227,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Ɔhaos Ǝnginǝǝring @ Target - Part 2](https://tech.target.com/2019/05/09/chaos-engineering-at-Target.html)
 * [Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/2019/02/05/chaos-engineering-at-Target.html)
 * [GoAlert - Your Future Open Source, On-Call Notification Product](https://tech.target.com/2019/02/25/introducing-goalert.html)
-* [On Infrastructure at Scale: A Cascading Failure of Distributed Systems](https://tech.target.com/2019/01/14/cascading-failure-of-distributed-systems.html)
-* [Distributed Troubleshooting](https://tech.target.com/2017/04/05/distributed-troubleshooting.html)
-* [Outage Resolution Through Automation](https://tech.target.com/2014/12/29/outage-resolution-through-automation.html)
 
 </details>
 
@@ -1448,9 +1452,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
 * [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
 * [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
-* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/training-sre.pdf)
+* [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://github.com/google/googlesre/blob/main/publications/Training_Site_Reliability_Engineers.pdf)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
-* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/) | [Read free online version hosted by Google](https://sre.google/static/pdf/slo-adoption-and-usage-in-sre.pdf)
+* [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
 * [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/)
 * [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/)
@@ -1489,7 +1493,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [Awesome Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 * [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
-* [Awesome Sysadmin](https://project-awesome.org/n1trux/awesome-sysadmin)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [ML-Ops.org](https://ml-ops.org/)
 
@@ -1502,11 +1505,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
+* [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 #### Incidents & postmortems
 
 * [The Verica Open Incident Database](https://www.thevoid.community/)
-* [Postmortem.io](https://postmortem.io/)
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 * [Incident Review and Postmortem Best Practices](https://blog.pragmaticengineer.com/postmortem-best-practices/)
 
