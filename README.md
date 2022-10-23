@@ -1210,6 +1210,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Fast and flexible observability with canonical log lines](https://stripe.com/blog/canonical-log-lines)
+* [Fast builds, secure builds. Choose two.](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [Introducing Veneur: high performance and global aggregation for Datadog](https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog)
 
 ### Videos
