@@ -982,6 +982,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>Prezi</summary>
+
+### Blog Posts
+
+* [How to avoid global outage — Seamlessly migrating DaemonSet labels](https://engineering.prezi.com/intro-4727024fc2c1)
+* [In search of speed — debugging Elasticsearch performance](https://engineering.prezi.com/in-search-of-speed-debugging-elasticsearch-performance-9ce8edf4af40)
+* [Prometheus at Prezi: replacing 10 years of anti-patterns](https://engineering.prezi.com/prometheus-at-prezi-replacing-10-years-of-anti-patterns-e3c2317e6ca)
+
+</details>
+
+<details>
   <summary>Red Hat</summary>
 
 ### Blog Posts
