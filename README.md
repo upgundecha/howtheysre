@@ -1187,6 +1187,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 * [Guest Post - Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
 * [How We Built Our Blog](https://stackoverflow.blog/2015/07/02/how-we-built-our-blog/)
+* [Stack Overflow Frees Up Engineering Time with Netlify](https://www.netlify.com/blog/stack-overflow-case-study/)
 
 ### Videos
 
