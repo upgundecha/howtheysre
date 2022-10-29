@@ -1496,6 +1496,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [cdCon](https://events.linuxfoundation.org/cdcon/)
   * [cdCon 2021 Playlist](https://www.youtube.com/watch?v=MQU4fKhau1w&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah)
   * [cdCon 2020 Playlist](https://www.youtube.com/watch?v=qLMrcEj-R9Y&list=PL2KXbZ9-EY9RbYURc1CDrOJpbrPMtc0P7)
+* [Conf42](https://www.conf42.com/sre2022)
+  * [Conf42 2022 Premiere](https://www.youtube.com/watch?v=FclEiSDfX14&ab_channel=Conf42)
+  
 
 ### Other Resources
 
