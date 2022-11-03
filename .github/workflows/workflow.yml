@@ -19,7 +19,7 @@ jobs:
     - name: Node setup
       uses: actions/setup-node@v1
       with:
-        node-version: '12.x'
+        node-version: '16.x'
     
     - name: Run Checklist
       shell: 'script -q -e -c "bash {0}"'
