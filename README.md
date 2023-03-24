@@ -920,6 +920,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>OpenAI</summary>
+
+### Blog Posts
+
+* [OpenAI SRE and scaling explained easy.](https://medium.com/@Pran-Ker/openai-sre-miracle-19a33bdd3145)
+* [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
+* [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+* [Scaling AI Infrastructure at OpenAI](https://www.youtube.com/watch?v=cK7qFZ9J6k0)
+
+</details>
+
+<details>
   <summary>PayPal</summary>
 
 ### Blog Posts
