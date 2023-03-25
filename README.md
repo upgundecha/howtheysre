@@ -1,6 +1,6 @@
 # How they SRE
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml) [![CodeQL](https://github.com/upgundecha/howtheysre/actions/workflows/codeql.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/codeql.yml)
 
 ![How they SRE](headline.png)
 
@@ -920,6 +920,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>OpenAI</summary>
+
+### Blog Posts
+
+* [OpenAI SRE and scaling explained easy.](https://medium.com/@Pran-Ker/openai-sre-miracle-19a33bdd3145)
+* [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
+* [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+* [Scaling AI Infrastructure at OpenAI](https://www.youtube.com/watch?v=cK7qFZ9J6k0)
+
+</details>
+
+<details>
   <summary>PayPal</summary>
 
 ### Blog Posts
@@ -978,6 +990,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Learn how your Kubernetes clusters respond to failure using Gremlin and Grafana](https://medium.com/better-practices/chaos-d3ef238ec328)
+
+</details>
+
+<details>
+  <summary>Prezi</summary>
+
+### Blog Posts
+
+* [How to avoid global outage — Seamlessly migrating DaemonSet labels](https://engineering.prezi.com/intro-4727024fc2c1)
+* [In search of speed — debugging Elasticsearch performance](https://engineering.prezi.com/in-search-of-speed-debugging-elasticsearch-performance-9ce8edf4af40)
+* [Prometheus at Prezi: replacing 10 years of anti-patterns](https://engineering.prezi.com/prometheus-at-prezi-replacing-10-years-of-anti-patterns-e3c2317e6ca)
 
 </details>
 
@@ -1187,6 +1210,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 * [Guest Post - Failing over without falling over](https://stackoverflow.blog/2020/10/23/adrian-cockcroft-aws-failover-chaos-engineering-fault-tolerance-distaster-recovery/)
 * [How We Built Our Blog](https://stackoverflow.blog/2015/07/02/how-we-built-our-blog/)
+* [Stack Overflow Frees Up Engineering Time with Netlify](https://www.netlify.com/blog/stack-overflow-case-study/)
 
 ### Videos
 
@@ -1210,7 +1234,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 ### Blog Posts
 
 * [Fast and flexible observability with canonical log lines](https://stripe.com/blog/canonical-log-lines)
-* [Introducing Veneur: high performance and global aggregation for Datadog](https://stripe.com/blog/engineering/page/3)
+* [Fast builds, secure builds. Choose two.](https://stripe.com/blog/fast-secure-builds-choose-two)
+* [Introducing Veneur: high performance and global aggregation for Datadog](https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog)
 
 ### Videos
 
