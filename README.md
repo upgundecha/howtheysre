@@ -924,6 +924,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
 * [OpenAI SRE and scaling explained easy.](https://medium.com/@Pran-Ker/openai-sre-miracle-19a33bdd3145)
 * [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
 * [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
