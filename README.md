@@ -906,6 +906,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [What Tools Do Site Reliability Engineers Use?](https://newrelic.com/blog/best-practices/best-sre-tools)
 * [A Day in the Life of a New Relic SRE](https://newrelic.com/blog/nerd-life/what-does-an-sre-do)
 * [7 Habits of Highly Successful Site Reliability Engineers](https://newrelic.com/blog/best-practices/site-reliability-engineer-sre-habits)
+* [Adopting the practice of SRE](https://newrelic.com/blog/best-practices/adopting-sre-practices)
+* [Using modern observability to establish a data-driven culture](https://newrelic.com/blog/best-practices/observability-data-driven-culture)
 
 </details>
 
