@@ -414,6 +414,18 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
+* [GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/)
+* [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
+* [GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/)
+* [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
+* [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
+* [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
+* [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/)
+* [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/)
+* [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
+* [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
+* [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
 * [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
 * [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
 * [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
