@@ -414,6 +414,14 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
+* [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
+* [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
+* [GitHub Availability Report: May 2023](https://github.blog/2023-06-14-github-availability-report-may-2023/)
+* [GitHub Availability Report: April 2023](https://github.blog/2023-05-03-github-availability-report-april-2023/)
+* [GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/)
+* [GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/)
+* [GitHub Availability Report: January 2023](https://github.blog/2023-02-01-github-availability-report-january-2023/)
 * [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
 * [GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/)
 * [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
