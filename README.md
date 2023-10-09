@@ -1172,6 +1172,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Hands-Off Deployment with Canary](https://developers.soundcloud.com/blog/hands-off-deployment-with-canary)
 * [Prometheus has come of age – a reflection on the development of an open-source project](https://developers.soundcloud.com/blog/prometheus-has-come-of-age-a-reflection-on-the-development-of-an-open-source-project)
 * [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
+* [What I Learned in One Year as an SRE Trainee](https://developers.soundcloud.com/blog/sre-trainee)
+* [Tests Under the Magnifying Lens](https://developers.soundcloud.com/blog/tests-under-the-magnifying-lens)
 
 </details>
 
