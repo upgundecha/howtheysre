@@ -393,8 +393,13 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/)
+* [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
+* [CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/)
+* [Addressing GitHub’s recent availability issues](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues/)
+* [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/)
+* [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/)
 * [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
-
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
 * [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
@@ -409,6 +414,26 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
+* [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
+* [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
+* [GitHub Availability Report: May 2023](https://github.blog/2023-06-14-github-availability-report-may-2023/)
+* [GitHub Availability Report: April 2023](https://github.blog/2023-05-03-github-availability-report-april-2023/)
+* [GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/)
+* [GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/)
+* [GitHub Availability Report: January 2023](https://github.blog/2023-02-01-github-availability-report-january-2023/)
+* [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
+* [GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/)
+* [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
+* [GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/)
+* [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
+* [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
+* [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
+* [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/)
+* [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/)
+* [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
+* [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
+* [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
 * [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
 * [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
 * [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
