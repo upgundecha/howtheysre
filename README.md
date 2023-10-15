@@ -948,6 +948,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
 * [How we do On-Call Rotations at Nubank](https://building.nubank.com.br/how-we-do-on-call-rotations-at-nubank/)
+* [How we scale our data platform efficiently and reliably](https://building.nubank.com.br/distributing-the-data-team-to-boost-innovation-reliably/)
+* [Why We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
+* [Automatic retraining for machine learning models: tips and lessons learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/)
 
 </details>
 
