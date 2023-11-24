@@ -42,8 +42,6 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Load Testing Kubernetes: Building a Framework (Part-1)](https://achievers.engineering/load-testing-kubernetes-building-a-framework-part-1-bdc0af4ae7e2)
 * [Load Testing Kubernetes: Resolving bottlenecks and improving performance (Part-2)](https://achievers.engineering/load-testing-kubernetes-resolving-bottlenecks-and-improving-performance-part-2-c4f08102f105)
 
-
-
 </details>
 
 <details>
