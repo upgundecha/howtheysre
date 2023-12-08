@@ -383,7 +383,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
-* [Our SRE Journey at G-Research](hhttps://www.gresearch.com/blog/article/our-sre-journey-at-g-research/)
+* [Our SRE Journey at G-Research](https://www.gresearch.com/blog/article/our-sre-journey-at-g-research/)
 * [The SRE Journey Continues](https://www.gresearch.com/blog/article/the-sre-journey-continues/)
 * [OpenTSDB Meta Cache – trade-offs for performance](https://www.gresearch.com/blog/article/opentsdb-meta-cache-trade-offs-for-performance/)
 
