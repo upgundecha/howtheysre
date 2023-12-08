@@ -379,6 +379,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>G-Research</summary>
+
+### Blog Posts
+
+* [Our SRE Journey at G-Research](hhttps://www.gresearch.com/blog/article/our-sre-journey-at-g-research/)
+* [The SRE Journey Continues](https://www.gresearch.com/blog/article/the-sre-journey-continues/)
+* [OpenTSDB Meta Cache – trade-offs for performance](https://www.gresearch.com/blog/article/opentsdb-meta-cache-trade-offs-for-performance/)
+
+</details>
+
+<details>
   <summary>Getaround</summary>
 
 ### Blog Posts
@@ -1484,10 +1495,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [BuzzFeed - Optimizing for Learning](https://www.usenix.org/conference/srecon19americas/presentation/mcdonald)
 * [BT - Challenges of Starting an SRE Team from Scratch in an Enterprise](https://www.usenix.org/conference/srecon20americas/presentation/narvas)
 * [Cloudflare - Support Operations Engineering: Scaling Developer Products to the Millions](https://www.usenix.org/conference/srecon19emea/presentation/ali)
+* [Cloudlock - My Life as a Solo SRE](https://www.usenix.org/conference/srecon19emea/presentation/murphy)
 * [Hudson River Trading - Fixing On-Call When Nobody Thinks It's (Too) Broken](https://www.usenix.org/conference/srecon19americas/presentation/lykke)
 * [IBM - Why Automating Everything Adds to Your Toil](https://www.usenix.org/conference/srecon19emea/presentation/thorne)
 * [Genesys - The Smallest Possible SRE Team](https://www.usenix.org/conference/srecon20americas/presentation/thomas)
-* [G-Research - My Life as a Solo SRE](https://www.usenix.org/conference/srecon19emea/presentation/murphy)
 * [Grafana Labs - SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
 * [Kenna Security - Building a Scalable Monitoring System](https://www.usenix.org/conference/srecon19emea/presentation/struve)
 * [Lightstep - Building Service Ownership Using Documentation, Telemetry, and a Chance to Make Things Better](https://www.usenix.org/conference/srecon20americas/presentation/spoonhower)
