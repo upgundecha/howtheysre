@@ -39,6 +39,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Enter the Abattoir - Building 'à la carte' gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
 * [Scaling Production Globally — The service mesh facelift (Part-1)](https://achievers.engineering/scaling-production-globally-service-mesh-face-lift-part-1-30ad6d393d04)
 * [Scaling Production Globally - Solving observability problems for developers (Part-2)](https://achievers.engineering/scaling-production-globally-solving-observability-problems-for-developers-part-2-b5416ce5eb8a)
+* [Load Testing Kubernetes: Building a Framework (Part-1)](https://achievers.engineering/load-testing-kubernetes-building-a-framework-part-1-bdc0af4ae7e2)
+* [Load Testing Kubernetes: Resolving bottlenecks and improving performance (Part-2)](https://achievers.engineering/load-testing-kubernetes-resolving-bottlenecks-and-improving-performance-part-2-c4f08102f105)
 
 </details>
 
