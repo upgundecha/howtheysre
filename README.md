@@ -156,6 +156,13 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>BlaBlaCar</summary>
+  
+### Blog Posts
+
+* [Increase operational coverage with Skills Matrices](https://medium.com/blablacar/increase-operational-coverage-with-skills-matrices-20f85f1dddc)
+</details>
+<details>
   <summary>Bloomberg</summary>
 
 ### Videos
