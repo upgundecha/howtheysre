@@ -4,15 +4,13 @@
 
 ![How they SRE](headline.png)
 
-> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+</br>
 
 ## Introduction
 
-__How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
+__How They SRE__ How They SRE is a curated knowledge repository of Site Reliability Engineering (SRE) best practices, tools, techniques, and culture adopted by leading technology or tech-savvy organizations.
 
-Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
-
-_Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
+Numerous organizations frequently share their insights and expertise, encompassing best practices, tools, and techniques that shape their engineering culture. They do this through various public platforms such as engineering blogs, conferences, and meetups. This repository compiles and presents content gathered from these sources.
 
 ### Topics
 
@@ -28,6 +26,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * Chaos Engineering
 * Automation
 * Performance
+* Platform Engineering
 
 ## Organizations
 
@@ -542,6 +541,12 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [SecDb Observability Journey](https://developer.gs.com/blog/posts/secdb-observability-journey)
+* [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)
+* [Forecasting Capacity Outages Using Machine Learning to Bolster Application Resiliency](https://developer.gs.com/blog/posts/forecasting-capacity-outages-using-machine-learning-to-bolster-application-resiliency)
+* [Providing 99.9% Availability and Sub-Second Response Times with Sybase IQ Multiplexes by Using HAProxy](https://developer.gs.com/blog/posts/providing-999-availability-and-sub-second-response-times-with-sybase-iq-multiplexes-by-using-haproxy)
+* [Building Multi-Region Resiliency with Amazon RDS and Amazon Aurora](https://developer.gs.com/blog/posts/building-multi-region-resiliency-with-amazon-rds-and-amazon-aurora)
+* [Enabling Highly Available Trino Clusters at Goldman Sachs](https://developer.gs.com/blog/posts/enabling-highly-available-trino-clusters-at-goldman-sachs)
 * [Observability at Scale](https://developer.gs.com/blog/posts/observability-at-scale)
 * [Enabling Highly Available Trino Clusters at Goldman Sachs](https://developer.gs.com/blog/posts/enabling-highly-available-trino-clusters-at-goldman-sachs)
 * [Infrastructure and the Command Chain Pattern](https://developer.gs.com/blog/posts/infrastructure-and-command-chain-pattern)
@@ -959,6 +964,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [Engineering operational excellence, a case of continuous improvement](https://building.nubank.com.br/engineering-operational-excellence-case-continuous-improvement/)
 * [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
 * [How we do On-Call Rotations at Nubank](https://building.nubank.com.br/how-we-do-on-call-rotations-at-nubank/)
 * [How we scale our data platform efficiently and reliably](https://building.nubank.com.br/distributing-the-data-team-to-boost-innovation-reliably/)
