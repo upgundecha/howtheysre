@@ -4,15 +4,13 @@
 
 ![How they SRE](headline.png)
 
-> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+</br>
 
 ## Introduction
 
-__How They SRE__ is a curated knowledge repository of best practices, tools, techniques, and culture of SRE adopted by the leading technology or tech-savvy organizations.
+__How They SRE__ How They SRE is a curated knowledge repository of Site Reliability Engineering (SRE) best practices, tools, techniques, and culture adopted by leading technology or tech-savvy organizations.
 
-Many organizations regularly come forward and share their best practices, tools, techniques and offer an insight into engineering culture on various public platforms like engineering blogs, conferences & meetups. The content is curated from these avenues and shared in this repository.
-
-_Note to readers: This list refers to some of the articles, posts, videos, tools, and techniques published before 2015. Please use such material with caution as there may be recent advances in technology and practices which offer better alternatives and perspectives._
+Numerous organizations frequently share their insights and expertise, encompassing best practices, tools, and techniques that shape their engineering culture. They do this through various public platforms such as engineering blogs, conferences, and meetups. This repository compiles and presents content gathered from these sources.
 
 ### Topics
 
@@ -28,6 +26,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * Chaos Engineering
 * Automation
 * Performance
+* Platform Engineering
 
 ## Organizations
 
