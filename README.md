@@ -39,6 +39,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Enter the Abattoir - Building 'à la carte' gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
 * [Scaling Production Globally — The service mesh facelift (Part-1)](https://achievers.engineering/scaling-production-globally-service-mesh-face-lift-part-1-30ad6d393d04)
 * [Scaling Production Globally - Solving observability problems for developers (Part-2)](https://achievers.engineering/scaling-production-globally-solving-observability-problems-for-developers-part-2-b5416ce5eb8a)
+* [Load Testing Kubernetes: Building a Framework (Part-1)](https://achievers.engineering/load-testing-kubernetes-building-a-framework-part-1-bdc0af4ae7e2)
+* [Load Testing Kubernetes: Resolving bottlenecks and improving performance (Part-2)](https://achievers.engineering/load-testing-kubernetes-resolving-bottlenecks-and-improving-performance-part-2-c4f08102f105)
 
 </details>
 
@@ -51,6 +53,11 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Detecting Vulnerabilities With Vulnture](https://medium.com/airbnb-engineering/detecting-vulnerabilities-with-vulnture-f5f23387f6ec)
 * [Alerting Framework at Airbnb](https://medium.com/airbnb-engineering/alerting-framework-at-airbnb-35ba48df894f)
 * [When The Cloud Gets Dark — How Amazon’s Outage Affected Airbnb](https://medium.com/airbnb-engineering/when-the-cloud-gets-dark-how-amazons-outage-affected-airbnb-66eaf8c0f162)
+* [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
+* [Production Secret Management at Airbnb](https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6)
+* [Automating Data Protection at Scale, Part 1](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
+* [Automating Data Protection at Scale, Part 2](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-2-c2b8d2068216)
+* [Automating Data Protection at Scale, Part 3](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46)
 
 </details>
 
@@ -374,6 +381,17 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>G-Research</summary>
+
+### Blog Posts
+
+* [Our SRE Journey at G-Research](https://www.gresearch.com/blog/article/our-sre-journey-at-g-research/)
+* [The SRE Journey Continues](https://www.gresearch.com/blog/article/the-sre-journey-continues/)
+* [OpenTSDB Meta Cache – trade-offs for performance](https://www.gresearch.com/blog/article/opentsdb-meta-cache-trade-offs-for-performance/)
+
+</details>
+
+<details>
   <summary>Getaround</summary>
 
 ### Blog Posts
@@ -388,8 +406,13 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Blog Posts
 
+* [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/)
+* [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
+* [CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/)
+* [Addressing GitHub’s recent availability issues](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues/)
+* [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/)
+* [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/)
 * [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
-
 * [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 * [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
 * [Why (and how) GitHub is adopting OpenTelemetry](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
@@ -404,6 +427,26 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
+* [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
+* [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
+* [GitHub Availability Report: May 2023](https://github.blog/2023-06-14-github-availability-report-may-2023/)
+* [GitHub Availability Report: April 2023](https://github.blog/2023-05-03-github-availability-report-april-2023/)
+* [GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/)
+* [GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/)
+* [GitHub Availability Report: January 2023](https://github.blog/2023-02-01-github-availability-report-january-2023/)
+* [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
+* [GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/)
+* [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
+* [GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/)
+* [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
+* [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
+* [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
+* [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/)
+* [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/)
+* [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
+* [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
+* [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
 * [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
 * [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
 * [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
@@ -906,6 +949,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [What Tools Do Site Reliability Engineers Use?](https://newrelic.com/blog/best-practices/best-sre-tools)
 * [A Day in the Life of a New Relic SRE](https://newrelic.com/blog/nerd-life/what-does-an-sre-do)
 * [7 Habits of Highly Successful Site Reliability Engineers](https://newrelic.com/blog/best-practices/site-reliability-engineer-sre-habits)
+* [Adopting the practice of SRE](https://newrelic.com/blog/best-practices/adopting-sre-practices)
+* [Using modern observability to establish a data-driven culture](https://newrelic.com/blog/best-practices/observability-data-driven-culture)
 
 </details>
 
@@ -916,6 +961,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 
 * [How we deal with technical incidents](https://building.nubank.com.br/how-we-deal-with-incidents/)
 * [How we do On-Call Rotations at Nubank](https://building.nubank.com.br/how-we-do-on-call-rotations-at-nubank/)
+* [How we scale our data platform efficiently and reliably](https://building.nubank.com.br/distributing-the-data-team-to-boost-innovation-reliably/)
+* [Why We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/)
+* [Automatic retraining for machine learning models: tips and lessons learned](https://building.nubank.com.br/automatic-retraining-for-machine-learning-models/)
 
 </details>
 
@@ -1165,6 +1213,8 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Hands-Off Deployment with Canary](https://developers.soundcloud.com/blog/hands-off-deployment-with-canary)
 * [Prometheus has come of age – a reflection on the development of an open-source project](https://developers.soundcloud.com/blog/prometheus-has-come-of-age-a-reflection-on-the-development-of-an-open-source-project)
 * [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
+* [What I Learned in One Year as an SRE Trainee](https://developers.soundcloud.com/blog/sre-trainee)
+* [Tests Under the Magnifying Lens](https://developers.soundcloud.com/blog/tests-under-the-magnifying-lens)
 
 </details>
 
@@ -1447,10 +1497,10 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [BuzzFeed - Optimizing for Learning](https://www.usenix.org/conference/srecon19americas/presentation/mcdonald)
 * [BT - Challenges of Starting an SRE Team from Scratch in an Enterprise](https://www.usenix.org/conference/srecon20americas/presentation/narvas)
 * [Cloudflare - Support Operations Engineering: Scaling Developer Products to the Millions](https://www.usenix.org/conference/srecon19emea/presentation/ali)
+* [Cloudlock - My Life as a Solo SRE](https://www.usenix.org/conference/srecon19emea/presentation/murphy)
 * [Hudson River Trading - Fixing On-Call When Nobody Thinks It's (Too) Broken](https://www.usenix.org/conference/srecon19americas/presentation/lykke)
 * [IBM - Why Automating Everything Adds to Your Toil](https://www.usenix.org/conference/srecon19emea/presentation/thorne)
 * [Genesys - The Smallest Possible SRE Team](https://www.usenix.org/conference/srecon20americas/presentation/thomas)
-* [G-Research - My Life as a Solo SRE](https://www.usenix.org/conference/srecon19emea/presentation/murphy)
 * [Grafana Labs - SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
 * [Kenna Security - Building a Scalable Monitoring System](https://www.usenix.org/conference/srecon19emea/presentation/struve)
 * [Lightstep - Building Service Ownership Using Documentation, Telemetry, and a Chance to Make Things Better](https://www.usenix.org/conference/srecon20americas/presentation/spoonhower)
