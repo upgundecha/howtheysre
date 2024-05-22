@@ -57,6 +57,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Automating Data Protection at Scale, Part 1](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 * [Automating Data Protection at Scale, Part 2](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-2-c2b8d2068216)
 * [Automating Data Protection at Scale, Part 3](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46)
+* [Dynamic Kubernetes Cluster Scaling at Airbnb](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132)
 
 </details>
 
@@ -67,6 +68,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 * [May 30 SSL incident](https://www.algolia.com/blog/may-30-ssl-incident/)
 * [A Journey Into SRE](https://www.algolia.com/blog/a-journey-into-sre/)
+* [CI/CDay 2024: What makes a good CI/CD platform?](https://www.algolia.com/blog/engineering/cicday-2024-what-makes-a-good-ci-cd-platform/)
 
 </details>
 
@@ -89,6 +91,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [How Asana ships stable web application releases](https://blog.asana.com/2021/01/asana-engineering-ships-web-application-releases/)
 * [Analysis of recent downtime & what we’re doing to prevent future incidents](https://blog.asana.com/2019/09/downtime-what-were-doing-to-prevent-future-downtime/)
 * [Developer environment: Achieving reliability by making it fast to reset](https://blog.asana.com/2017/07/developer-environment-making-it-reliable-by-making-it-fast-to-reset/)
+* [Three security tactics for every IT leader to consider this fall](https://blog.asana.com/2022/08/it-security-hybrid-workers/)
 
 </details>
 
@@ -309,6 +312,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [SRE Case Study: Triaging a Non-Heap JVM Out of Memory Issue](https://tech.ebayinc.com/engineering/sre-case-study-triage-a-non-heap-jvm-out-of-memory-issue/)
 * [SRE Case Study: Mysterious Traffic Imbalance](https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/)
 * [Zero Downtime, Instant Deployment and Rollback](https://tech.ebayinc.com/engineering/zero-downtime-instant-deployment-and-rollback/)
+* [How eBay’s Notification Platform Used Fault Injection in New Ways](https://innovation.ebayinc.com/tech/engineering/how-ebays-notification-platform-used-fault-injection-in-new-ways/)
 
 ### Video
 
@@ -680,6 +684,15 @@ Numerous organizations frequently share their insights and expertise, encompassi
 ### Videos
 
 * [Are We Getting Better Yet? Progress Toward Safer Operations](https://www.usenix.org/conference/srecon20americas/presentation/elman)
+
+</details>
+
+<details>
+  <summary>Indeed</summary>
+
+### Blog Posts
+
+* [SRE Playbook - Practical Guide](https://blog.jiocinema.com/sre-playbook-practical-guide/)
 
 </details>
 
@@ -1480,6 +1493,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 ### Blog Posts
 
 * [Infrastructure monitoring with Prometheus at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
+* [Logging at Zerodha](https://zerodha.tech/blog/logging-at-zerodha/)
 
 </details>
 
