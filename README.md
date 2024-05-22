@@ -552,7 +552,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Building Multi-Region Resiliency with Amazon RDS and Amazon Aurora](https://developer.gs.com/blog/posts/building-multi-region-resiliency-with-amazon-rds-and-amazon-aurora)
 * [Enabling Highly Available Trino Clusters at Goldman Sachs](https://developer.gs.com/blog/posts/enabling-highly-available-trino-clusters-at-goldman-sachs)
 * [Observability at Scale](https://developer.gs.com/blog/posts/observability-at-scale)
-* [Enabling Highly Available Trino Clusters at Goldman Sachs](https://developer.gs.com/blog/posts/enabling-highly-available-trino-clusters-at-goldman-sachs)
 * [Infrastructure and the Command Chain Pattern](https://developer.gs.com/blog/posts/infrastructure-and-command-chain-pattern)
 * [Mobile CICD with EC2 macOS](https://developer.gs.com/blog/posts/mobile-cicd-with-ec2-macos)
 * [Announcing CatchIT - Source Code Secret Scanner](https://developer.gs.com/blog/posts/catchit-source-code-secret-scanner)
