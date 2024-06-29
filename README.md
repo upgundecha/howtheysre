@@ -564,6 +564,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+* [Accelerating incident response using generative AI](https://security.googleblog.com/2024/04/accelerating-incident-response-using.html)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/articles/pitfalls-patterns-microservice-dependency-management/)
 * [SRE Practices & Processes](https://sre.google/resources/#practicesandprocesses)
 * [Google site reliability using Go](https://go.dev/solutions/google/sitereliability)
@@ -831,6 +832,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+* [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
 * [Improving Meta’s SLO workflows with data annotations](https://engineering.fb.com/2022/08/29/developer-tools/improving-metas-slo-workflows-with-data-annotations/)
 * [SLICK: Adopting SLOs for improved reliability](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
 * [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
