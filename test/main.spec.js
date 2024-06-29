@@ -24,6 +24,7 @@ describe('Checklist', function() {
         '## Resources',
         '## Credits',
         '## Other How They... repos',
+        '## Stargazers Over Time',
         '## Contribute',
         '## License'];
       const actualList = srcMd.match(/^## (.*$)/gim);

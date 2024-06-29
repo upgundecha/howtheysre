@@ -1578,7 +1578,9 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [cdCon](https://events.linuxfoundation.org/cdcon/)
   * [cdCon 2021 Playlist](https://www.youtube.com/watch?v=MQU4fKhau1w&list=PL2KXbZ9-EY9TWsV-Jz8ARSt1ko0Yd36ah)
   * [cdCon 2020 Playlist](https://www.youtube.com/watch?v=qLMrcEj-R9Y&list=PL2KXbZ9-EY9RbYURc1CDrOJpbrPMtc0P7)
-
+* [Conf42](https://www.conf42.com/sre2022)
+  * [Conf42 2022 Premiere](https://www.youtube.com/watch?v=FclEiSDfX14&ab_channel=Conf42)
+  
 ### Other Resources
 
 #### Awesome Lists
@@ -1626,6 +1628,10 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Howtheydevops](https://github.com/bregman-arie/howtheydevops)
 * [Howtheyaws](https://github.com/upgundecha/howtheyaws)
 
+## Stargazers Over Time
+
+[![Stargazers over time](https://starchart.cc/upgundecha/howtheysre.svg?background=%23FFFFFF&axis=%23333333&line=%23139a15)](https://starchart.cc/upgundecha/howtheysre)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -1639,4 +1645,4 @@ related or neighboring rights to this work.
 
 ---
 
-If you decide to use this anywhere please give a credit to [@upgundecha](https://www.twitter.com/upgundecha) on twitter, also If you like my work, check out other projects on my Github.
+If you decide to use this anywhere, please credit [@upgundecha](https://www.x.com/upgundecha) on X. Also, if you like my work, check out my other projects on GitHub.
