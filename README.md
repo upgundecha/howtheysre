@@ -1581,7 +1581,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Conf42](https://www.conf42.com/sre2022)
   * [Conf42 2022 Premiere](https://www.youtube.com/watch?v=FclEiSDfX14&ab_channel=Conf42)
   
-
 ### Other Resources
 
 #### Awesome Lists
