@@ -1631,7 +1631,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ## Stargazers Over Time
 
-## Stargazers over time
 [![Stargazers over time](https://starchart.cc/upgundecha/howtheysre.svg?background=%23FFFFFF&axis=%23333333&line=%23139a15)](https://starchart.cc/upgundecha/howtheysre)
 
 ## Contribute
