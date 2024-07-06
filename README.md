@@ -1630,13 +1630,19 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Howtheydevops](https://github.com/bregman-arie/howtheydevops)
 * [Howtheyaws](https://github.com/upgundecha/howtheyaws)
 
-## Stargazers Over Time
+## Contributors
 
-[![Stargazers over time](https://starchart.cc/upgundecha/howtheysre.svg?background=%23FFFFFF&axis=%23333333&line=%23139a15)](https://starchart.cc/upgundecha/howtheysre)
+<a href="https://github.com/upgundecha/howtheysre/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=upgundecha/howtheysre" />
+</a>
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Stargazers Over Time
+
+[![Stargazers over time](https://starchart.cc/upgundecha/howtheysre.svg?background=%23FFFFFF&axis=%23333333&line=%23139a15)](https://starchart.cc/upgundecha/howtheysre)
 
 ## License
 

@@ -24,8 +24,9 @@ describe('Checklist', function() {
         '## Resources',
         '## Credits',
         '## Other How They... repos',
-        '## Stargazers Over Time',
+        '## Contributors',
         '## Contribute',
+        '## Stargazers Over Time',
         '## License'];
       const actualList = srcMd.match(/^## (.*$)/gim);
       expect(actualList).to.equalTo(expectedH2List);
