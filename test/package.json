@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "How They SRE",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha main.spec.js"
   },
   "repository": {
     "type": "git",
