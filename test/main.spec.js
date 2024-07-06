@@ -6,7 +6,7 @@ chai.use(require('chai-string'));
 
 const expect = chai.expect;
 
-const srcMd = fs.readFileSync('README.md', 'utf8');
+const srcMd = fs.readFileSync('../README.md', 'utf8');
 
 describe('Checklist', function() {
   describe('Header', function() {

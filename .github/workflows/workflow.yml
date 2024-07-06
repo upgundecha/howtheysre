@@ -23,5 +23,5 @@ jobs:
     
     - name: Run Checklist
       shell: 'script -q -e -c "bash {0}"'
-      run: npm ci && npx eslint test/. && npm run test
+      run: cd test && npm ci && npx eslint . && npm run test
       

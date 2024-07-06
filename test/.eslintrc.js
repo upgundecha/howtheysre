@@ -2,7 +2,7 @@ module.exports = {
   'env': {
     'es2021': true,
     'node': true,
-    'mocha': true
+    'mocha': true,
   },
   'extends': [
     'google',
@@ -13,6 +13,6 @@ module.exports = {
   },
   'rules': {
     'new-cap': 0,
-    'require-jsdoc': 0
-  }
+    'require-jsdoc': 0,
+  },
 };
