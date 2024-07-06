@@ -14,7 +14,7 @@ jobs:
       uses: nosborn/github-action-markdown-cli@v1.1.1
       with:
         files: README.md
-        config_file: ".markdownlint.json"
+        config_file: "./test/.markdownlint.json"
    
     - name: Node setup
       uses: actions/setup-node@v1
