@@ -436,6 +436,18 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/)
+* [GitHub Availability Report: July 2024](https://github.blog/news-insights/company-news/github-availability-report-july-2024/)
+* [GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/)
+* [GitHub Availability Report: May 2024](https://github.blog/news-insights/company-news/github-availability-report-may-2024/)
+* [GitHub Availability Report: April 2024](https://github.blog/news-insights/company-news/github-availability-report-april-2024/)
+* [GitHub Availability Report: March 2024](https://github.blog/news-insights/company-news/github-availability-report-march-2024/)
+* [GitHub Availability Report: February 2024](https://github.blog/news-insights/company-news/github-availability-report-february-2024/)
+* [GitHub Availability Report: January 2024](https://github.blog/news-insights/company-news/github-availability-report-january-2024/)
+* [GitHub Availability Report: December 2023](https://github.blog/news-insights/company-news/github-availability-report-december-2023/)
+* [GitHub Availability Report: November 2023](https://github.blog/news-insights/company-news/github-availability-report-november-2023/)
+* [GitHub Availability Report: October 2023](https://github.blog/news-insights/company-news/github-availability-report-october-2023/)
+* [GitHub Availability Report: September 2023](https://github.blog/news-insights/company-news/github-availability-report-september-2023/)
 * [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
 * [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
 * [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
