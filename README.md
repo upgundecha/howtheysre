@@ -410,6 +410,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+* [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/)
+* [How we improved push processing on GitHub](https://github.blog/engineering/architecture-optimization/how-we-improved-push-processing-on-github/)
+* [How GitHub uses merge queue to ship hundreds of changes every day](https://github.blog/engineering/engineering-principles/how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/)
+* [Fixing security vulnerabilities with AI](https://github.blog/engineering/platform-security/fixing-security-vulnerabilities-with-ai/)
+* [GitHub’s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/engineering/engineering-principles/githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/)
 * [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/)
 * [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
 * [CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/)
