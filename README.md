@@ -1206,12 +1206,20 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
-* [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+* [Advancing Our Chef Infrastructure](https://slack.engineering/advancing-our-chef-infrastructure/)
+* [Advanced Rollout Techniques: Custom Strategies for Stateful Apps in Kubernetes](https://slack.engineering/kube-stateful-rollouts/)
+* [The Scary Thing About Automating Deploys](https://slack.engineering/the-scary-thing-about-automating-deploys/)
+* [Technology Lifecycle](https://slack.engineering/technology-lifecycle/)
+* [How We Use Terraform At Slack](https://slack.engineering/how-we-use-terraform-at-slack/)
 * [Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
 * [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 * [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
 * [Deploys at Slack](https://slack.engineering/deploys-at-slack/)
 * [Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)
+
+### Major incidents & analysis reports
+
+* [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
 
 ### Videos
 
