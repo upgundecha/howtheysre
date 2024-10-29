@@ -1206,6 +1206,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+* [Advancing Our Chef Infrastructure](https://slack.engineering/advancing-our-chef-infrastructure/)
+* [Advanced Rollout Techniques: Custom Strategies for Stateful Apps in Kubernetes](https://slack.engineering/kube-stateful-rollouts/)
+* [The Scary Thing About Automating Deploys](https://slack.engineering/the-scary-thing-about-automating-deploys/)
+* [Technology Lifecycle](https://slack.engineering/technology-lifecycle/)
+* [How We Use Terraform At Slack](https://slack.engineering/how-we-use-terraform-at-slack/)
 * [Infrastructure Observability for Changing the Spend Curve](https://slack.engineering/infrastructure-observability-for-changing-the-spend-curve/)
 * [Slack’s Outage on January 4th 2021](https://slack.engineering/slacks-outage-on-january-4th-2021/)
 * [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack/)
