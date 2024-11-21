@@ -1603,6 +1603,10 @@ Numerous organizations frequently share their insights and expertise, encompassi
   
 ### Other Resources
 
+#### Roadmaps
+
+* [Dynamic DevOps Roadmap](https://devopsroadmap.io/)
+
 #### Awesome Lists
 
 * [Awesome SRE](https://github.com/dastergon/awesome-sre)
