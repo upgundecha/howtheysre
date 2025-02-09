@@ -182,6 +182,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
+* [Sailing the Database Seas: Applying SRE Principles at Scale](https://www.usenix.org/conference/srecon24emea/presentation/androulidakis)
 * [SLOs for Data-Intensive Services](https://www.usenix.org/conference/srecon19emea/presentation/fouquet)
 * [Benefits of Taking the Less Traveled Road with Containers Infrastructure](https://www.usenix.org/conference/srecon19americas/presentation/iacoboaia)
 
@@ -575,6 +576,10 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Announcing CatchIT - Source Code Secret Scanner](https://developer.gs.com/blog/posts/catchit-source-code-secret-scanner)
 * [Building Platforms for Data Engineering](https://developer.gs.com/blog/posts/legend_data_engineering_platforms)
 
+### Videos
+
+* [Granular CPU Capacity Management at Scale with eBPF](https://www.usenix.org/conference/srecon24emea/presentation/brighton)
+
 </details>
 
 <details>
@@ -592,6 +597,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
+* [Get Your Non-SREs Oncall Ready!](https://www.usenix.org/conference/srecon24emea/presentation/van-winkel)
+* [Reliable Data for Large ML Models: Principles and Practices](https://www.usenix.org/conference/srecon23emea/presentation/mcglohon)
+* [New Grads Becoming New SREs: Catalyzing a “Circle of Life” in Ireland](https://www.usenix.org/conference/srecon23emea/presentation/petoff)
+* [SRE for [cyber]security](https://www.usenix.org/conference/srecon23emea/presentation/fischbach)
+* [Artificial Intelligence: How Much Will It Cost You?](https://www.usenix.org/conference/srecon23emea/presentation/underwood)
 * [What's the Difference Between DevOps and SRE? with Seth Vargo and Liz Fong-Jones of Google](https://youtu.be/uTEL8Ff1Zvk)
 * [Risk and Error Budgets’ with Seth Vargo and Liz Fong-Jones of Google](https://youtu.be/y2ILKr8kCJU)
 * [Pragmatic Automation’ with Max Luebbe of GCP](https://www.youtube.com/watch?v=oDcjAcFTFC0&t=0m56s)
@@ -858,6 +868,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
+* [Scheduling at Scale: eBPF Schedulers with Sched_ext](https://www.usenix.org/conference/srecon24emea/presentation/hodges)
 * [A Customer Service Approach to SRE](https://www.usenix.org/conference/srecon19emea/presentation/looney)
 * [How (Not) to Scale a Project: A Post-Mortem](https://www.usenix.org/conference/srecon19asia/presentation/bagnoli)
 * [Releasing the World's Largest Python Site Every 7 Minutes](https://www.usenix.org/conference/srecon19asia/presentation/wong-shuhong)
@@ -945,6 +956,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
   
 ### Videos
 
+* [Achieving Excellence: SLO Thresholds That Transform Service Quality](https://www.usenix.org/conference/srecon24emea/presentation/ortiz)
 * [AWS re:Invent 2019: A day in the life of a Netflix engineer (NFX202)](https://www.youtube.com/watch?v=0QS1TWLooo0)
 * [When /bin/sh Attacks: Revisiting "Automate All the Things"](https://www.usenix.org/conference/srecon20americas/presentation/reed)
 * [How Did Things Go Right? Learning More from Incidents](https://www.usenix.org/conference/srecon19americas/presentation/kitchens)
@@ -1103,6 +1115,15 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Reddit</summary>
+
+### Videos
+
+* [Noisy Neighbors, through Networking](https://www.usenix.org/conference/srecon24emea/presentation/treffer)
+
+</details>
+
+<details>
   <summary>Riot Games</summary>
 
 ### Blog Posts
@@ -1127,6 +1148,10 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [THE EVOLUTION OF SECURITY AT RIOT](https://technology.riotgames.com/news/evolution-security-riot)
 * [RUNNING AN AUTOMATED TEST PIPELINE FOR THE LEAGUE CLIENT UPDATE](https://technology.riotgames.com/news/running-automated-test-pipeline-league-client-update)
 * [AUTOMATED TESTING FOR LEAGUE OF LEGENDS](https://technology.riotgames.com/news/automated-testing-league-legends)
+
+### Videos
+
+* [Riot Games: Evolution of Observability at the Gaming Company](https://www.usenix.org/conference/srecon24emea/presentation/moreira)
 
 </details>
 
@@ -1182,6 +1207,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
+* [Enhancing Elasticsearch Performance: Innovative Reindexing Strategies Using Dedicated Nodes and KEDA Autoscalers](https://www.usenix.org/conference/srecon24emea/presentation/vayghan)
 * [Network Monitor: A Tale of ACKnowledging an Observability Gap](https://www.usenix.org/conference/srecon19emea/presentation/gedge)
 * [Expect the Unexpected: Preparing SRE Teams for Responding to Novel Failures](https://www.usenix.org/conference/srecon19emea/presentation/arthorne)
 * [Advanced Napkin Math: Estimating System Performance from First Principles](https://www.usenix.org/conference/srecon19emea/presentation/eskildsen)
@@ -1215,6 +1241,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
+* [Scaling Chef Emotionally](https://www.usenix.org/conference/srecon23emea/presentation/pemberton)
 * [Slack at the Edge](https://www.usenix.org/conference/srecon19asia/presentation/pemberton)
 * [What Breaks Our Systems: A Taxonomy of Black Swans](https://www.usenix.org/conference/srecon19americas/presentation/nolan-taxonomy)
 
@@ -1434,6 +1461,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Blameless Incident Reviews at Udemy](https://medium.com/udemy-engineering/blameless-incident-reviews-at-udemy-aa4773dbaf0b)
 * [How Udemy does Build Engineering](https://medium.com/udemy-engineering/how-udemy-does-build-engineering-9722e98a4208)
 
+### Videos
+
+* [Monitoring Systems as a Service – Walking the Line between Giving Your Devs Good M&O and Setting All Your Money on Fire](https://www.usenix.org/conference/srecon24emea/presentation/ocallaghan)
+* [Udemy - How to Do SRE When You Have No SRE](https://www.usenix.org/conference/srecon19emea/presentation/ocallaghan)
+
 </details>
 
 <details>
@@ -1504,6 +1536,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
 * [Tracing SRE’s journey in Zalando - Part III](https://engineering.zalando.com/posts/2021/10/sre-journey-part3.html)
 
+### Vidoes
+
+* [The Frontiers of Reliability Engineering](https://www.usenix.org/conference/srecon24emea/presentation/hartmann)
+* [Service Level Objectives](https://www.usenix.org/conference/srecon24emea/presentation/discussion-slos)
+
 </details>
 
 <details>
@@ -1552,7 +1589,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Twitter - Hiring Great SREs](https://www.usenix.org/conference/srecon19emea/presentation/rutkin)
 * [United States Digital Service - Lessons Learned in Black Box Monitoring 25,000 Endpoints and Proving the SRE Team's Value](https://www.usenix.org/conference/srecon19americas/presentation/wieczorek)
 * [Unity Technologies - Being Reasonable about SRE](https://www.usenix.org/conference/srecon19emea/presentation/urbanec)
-* [Udemy - How to Do SRE When You Have No SRE](https://www.usenix.org/conference/srecon19emea/presentation/ocallaghan)
+
 * [Vanguard - Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)
 * [WeWork - Learning from Learnings: Anatomy of Three Incidents](https://www.usenix.org/conference/srecon19americas/presentation/shoup)
 * [Zendesk - Latency and Availability Error Budgets Done Right at Scale](https://www.usenix.org/conference/srecon20americas/presentation/moyer)
