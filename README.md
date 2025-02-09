@@ -1595,7 +1595,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations](https://amzn.to/4i87f4D)
 * [The Art of Site Reliability Engineering (SRE) with Azure: Building and Deploying Applications That Endure](https://amzn.to/4hP2VXx)
 
-
 ### Events
 
 * [SRECon Past Events](https://www.usenix.org/srecon#past)
