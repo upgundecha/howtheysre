@@ -296,6 +296,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Atlas: Our journey from a Python monolith to a managed platform](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Monitoring server applications with Vortex](https://dropbox.tech/infrastructure/monitoring-server-applications-with-vortex)
 * [Athena: Our automated build health management system](https://dropbox.tech/infrastructure/athena-our-automated-build-health-management-system)
+* [Interested in becoming a Site Reliability Engineer?](https://tammybutow.medium.com/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b)
 
 ### Videos
 
@@ -409,6 +410,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+* [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/)
+* [How we improved push processing on GitHub](https://github.blog/engineering/architecture-optimization/how-we-improved-push-processing-on-github/)
+* [How GitHub uses merge queue to ship hundreds of changes every day](https://github.blog/engineering/engineering-principles/how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/)
+* [Fixing security vulnerabilities with AI](https://github.blog/engineering/platform-security/fixing-security-vulnerabilities-with-ai/)
+* [GitHub’s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/engineering/engineering-principles/githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/)
 * [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/)
 * [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
 * [CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/)
@@ -430,6 +436,18 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Major incidents & analysis reports
 
+* [GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/)
+* [GitHub Availability Report: July 2024](https://github.blog/news-insights/company-news/github-availability-report-july-2024/)
+* [GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/)
+* [GitHub Availability Report: May 2024](https://github.blog/news-insights/company-news/github-availability-report-may-2024/)
+* [GitHub Availability Report: April 2024](https://github.blog/news-insights/company-news/github-availability-report-april-2024/)
+* [GitHub Availability Report: March 2024](https://github.blog/news-insights/company-news/github-availability-report-march-2024/)
+* [GitHub Availability Report: February 2024](https://github.blog/news-insights/company-news/github-availability-report-february-2024/)
+* [GitHub Availability Report: January 2024](https://github.blog/news-insights/company-news/github-availability-report-january-2024/)
+* [GitHub Availability Report: December 2023](https://github.blog/news-insights/company-news/github-availability-report-december-2023/)
+* [GitHub Availability Report: November 2023](https://github.blog/news-insights/company-news/github-availability-report-november-2023/)
+* [GitHub Availability Report: October 2023](https://github.blog/news-insights/company-news/github-availability-report-october-2023/)
+* [GitHub Availability Report: September 2023](https://github.blog/news-insights/company-news/github-availability-report-september-2023/)
 * [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
 * [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
 * [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
