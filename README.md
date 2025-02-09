@@ -1545,12 +1545,12 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Books
 
-* [__New!__ Enterprise Roadmap to SRE](https://learning.oreilly.com/library/view/enterprise-roadmap-to/9781098117740/)
-* [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/) | [Read free online version hosted by Google](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf)
-* [Site Reliability Engineering](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
-* [The Site Reliability Workbook from Google](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
+* [Site Reliability Engineering](https://amzn.to/4jNrENP) | [Read free online version hosted by Google](https://sre.google/sre-book/table-of-contents/)
+* [The Site Reliability Workbook from Google](https://amzn.to/3CyRCEa) | [Read free online version hosted by Google](https://sre.google/workbook/table-of-contents/)
+* [Building Secure & Reliable Systems](https://amzn.to/4gty0yV)
+* [Enterprise Roadmap to SRE](https://learning.oreilly.com/library/view/enterprise-roadmap-to/9781098117740/)
 * [Training Site Reliability Engineers](https://www.oreilly.com/library/view/training-site-reliability/9781492076018/) | [Read free online version hosted by Google](https://github.com/google/googlesre/blob/main/publications/Training_Site_Reliability_Engineers.pdf)
-* [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/) | [Complimentary Copy from Nginx](https://www.nginx.com/resources/library/97-things-every-sre-should-know/)
+* [97 Things Every SRE Should Know](https://amzn.to/4hPCktG)
 * [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 * [Practical Site Reliability Engineering](https://www.oreilly.com/library/view/practical-site-reliability/9781788839563/)
 * [Implementing Service Level Objectives](https://www.oreilly.com/library/view/implementing-service-level/9781492076803/)
