@@ -1589,7 +1589,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Twitter - Hiring Great SREs](https://www.usenix.org/conference/srecon19emea/presentation/rutkin)
 * [United States Digital Service - Lessons Learned in Black Box Monitoring 25,000 Endpoints and Proving the SRE Team's Value](https://www.usenix.org/conference/srecon19americas/presentation/wieczorek)
 * [Unity Technologies - Being Reasonable about SRE](https://www.usenix.org/conference/srecon19emea/presentation/urbanec)
-
 * [Vanguard - Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)
 * [WeWork - Learning from Learnings: Anatomy of Three Incidents](https://www.usenix.org/conference/srecon19americas/presentation/shoup)
 * [Zendesk - Latency and Availability Error Budgets Done Right at Scale](https://www.usenix.org/conference/srecon20americas/presentation/moyer)
