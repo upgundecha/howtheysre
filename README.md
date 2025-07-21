@@ -1690,6 +1690,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Howtheytest](https://github.com/abhivaikar/howtheytest)
 * [Howtheydevops](https://github.com/bregman-arie/howtheydevops)
 * [Howtheyaws](https://github.com/upgundecha/howtheyaws)
+* [Applied AI](https://github.com/upgundecha/applied-ai)
 
 ## Contributors
 
