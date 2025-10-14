@@ -1677,8 +1677,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [Uber - Observability at Scale](https://www.uber.com/en-IN/blog/observability-at-scale/)
 
-
-
 #### Incidents & postmortems
 
 * [The Verica Open Incident Database](https://www.thevoid.community/)
