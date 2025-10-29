@@ -748,6 +748,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Smart alerts in ThirdEye, LinkedIn’s real-time monitoring platform](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 * [Iris mobile: An open source, mobile interface for incident management](https://engineering.linkedin.com/blog/2019/05/iris-mobile--an-open-source--mobile-interface-for-incident-manag)
 * [LinkedOut: A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)
+* [LinkedIn — SRE Intern Interview Experience | Off-campus | August 2021 [Offer-Accepted]](https://medium.com/developer-student-clubs-tiet/linkedin-sre-intern-interview-experience-off-campus-august-2021-offer-accepted-ed114ac70a35)
 * [Eliminating toil with fully automated load testing](https://engineering.linkedin.com/blog/2019/eliminating-toil-with-fully-automated-load-testing)
 * [The Makeup of Successful Geographically-Distributed SRE Teams: Part 1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p)
 * [The Makeup of Successful Geographically-Distributed SRE Teams: Part 2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
