@@ -1665,6 +1665,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+* [YouBrokeProd](https://youbrokeprod.com) - Interactive incident simulation game for practicing production debugging skills.
 
 #### Incidents & postmortems
 
