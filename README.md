@@ -1654,6 +1654,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [ML-Ops.org](https://ml-ops.org/)
+* [Production Readiness Checklist](https://github.com/MarinJursic/production-readiness-checklist)
 
 #### SRE Resources from various organizations
 
