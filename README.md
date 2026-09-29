@@ -1352,6 +1352,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Fast and flexible observability with canonical log lines](https://stripe.com/blog/canonical-log-lines)
 * [Fast builds, secure builds. Choose two.](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [Introducing Veneur: high performance and global aggregation for Datadog](https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog)
+* [Middleware OpsAI: The AI SRE Agent That Resolves Production Issues Before They Reach Your Users](https://middleware.io/blog/ops-ai-sre-agent/).
 
 ### Videos
 
