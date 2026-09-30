@@ -8,7 +8,7 @@
 
 ## Introduction
 
-__How They SRE__ How They SRE is a curated knowledge repository of Site Reliability Engineering (SRE) best practices, tools, techniques, and culture adopted by leading technology or tech-savvy organizations.
+__How They SRE__ is a curated knowledge repository of Site Reliability Engineering (SRE) best practices, tools, techniques, and culture adopted by leading technology or tech-savvy organizations.
 
 Numerous organizations frequently share their insights and expertise, encompassing best practices, tools, and techniques that shape their engineering culture. They do this through various public platforms such as engineering blogs, conferences, and meetups. This repository compiles and presents content gathered from these sources.
 
@@ -347,7 +347,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Videos
 
-* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe](https://www.youtube.com/watch?v=LdOe18KhtT4)
+* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per Day"](https://www.youtube.com/watch?v=LdOe18KhtT4)
 * [Migrating a Monolith to the Cloud](https://www.usenix.org/conference/srecon19americas/presentation/govande)
 
 </details>
@@ -716,7 +716,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
-  <summary>Indeed</summary>
+  <summary>JioCinema</summary>
 
 ### Blog Posts
 
@@ -1536,7 +1536,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Tracing SRE’s journey in Zalando - Part II](https://engineering.zalando.com/posts/2021/09/sre-journey-part2.html)
 * [Tracing SRE’s journey in Zalando - Part III](https://engineering.zalando.com/posts/2021/10/sre-journey-part3.html)
 
-### Vidoes
+### Videos
 
 * [The Frontiers of Reliability Engineering](https://www.usenix.org/conference/srecon24emea/presentation/hartmann)
 * [Service Level Objectives](https://www.usenix.org/conference/srecon24emea/presentation/discussion-slos)
