@@ -1657,14 +1657,23 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### SRE Resources from various organizations
 
-* [Google SRE Page](https://sre.google/)
-* [Google SRE Classroom](https://sre.google/classroom/)
-* [Google Cloud SRE Page](https://cloud.google.com/sre)
-* [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
-* [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
-* [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
+* [Airbnb Engineering - Lessons Learned in Incident Management](https://dropbox.tech/infrastructure/lessons-learned-in-incident-management)
+* [Atlassian - Blameless Postmortems](https://www.atlassian.com/incident-management/postmortem/blameless)
+* [Atlassian - Creating Postmortem Reports](https://www.atlassian.com/incident-management/postmortem/reports)
 * [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+* [Cloudflare - Incident Analysis and Response](https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/)
+* [Google Cloud SRE Page](https://cloud.google.com/sre)
+* [Google SRE Classroom](https://sre.google/classroom/)
+* [Google SRE Page](https://sre.google/)
+* [Google SRE - Blameless Postmortem Culture](https://sre.google/sre-book/postmortem-culture/)
+* [Google SRE - Incident Response and Analysis](https://sre.google/workbook/incident-response/)
+* [Microsoft SRE Page](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/)
+* [PagerDuty - Incident Response Automation](https://www.pagerduty.com/blog/automation/from-alert-to-resolution-how-incident-response-automation-cuts-mttr-and-closes-gaps/)
+* [School of SRE from LinkedIn](https://linkedin.github.io/school-of-sre/)
+* [Spotify - Incident Management Practices](https://engineering.atspotify.com/2013/06/04/incident-management-at-spotify)
+* [Stripe Increment Magazine Issue 16 on Reliability](https://increment.com/reliability/)
+* [Uber - Observability at Scale](https://www.uber.com/en-IN/blog/observability-at-scale/)
 
 #### Incidents & postmortems
 
