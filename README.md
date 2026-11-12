@@ -1671,6 +1671,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [The Verica Open Incident Database](https://www.thevoid.community/)
 * [Postmortem Templates](https://github.com/dastergon/postmortem-templates)
 * [Incident Review and Postmortem Best Practices](https://blog.pragmaticengineer.com/postmortem-best-practices/)
+* [Cloud & SRE Exam Arena](https://fabianimv.github.io/exam-arena/) - Free interactive outage simulator with 60 on-call SEV-1 incident triage scenarios and telemetry diagrams.
 
 #### Newsletters
 
