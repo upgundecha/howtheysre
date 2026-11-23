@@ -1677,6 +1677,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [SRE Weekly Newsletter](https://sreweekly.com/)
 * [Chaos Engineering Newsletter](https://chaosengineering.news/)
 * [DevOps Weekly Newsletter](http://devopsweekly.com)
+* [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/) - Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams. [Archive on Medium](https://medium.com/@aisreweekly)
 
 ## Credits
 
